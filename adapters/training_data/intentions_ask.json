@@ -1,0 +1,91 @@
+{
+    "Bienvenue": [
+        "Bonjour, j'ai besoin de votre aide",
+        "salut j'ai besoin d'aide",
+        "salut quelqu'un peut m'aider ?",
+        "rebonjour",
+        "bonjour",
+        "Salut",
+        "Hello"
+    ],
+    "Remerciements": [
+        " Merci beaucoup pour votre renseignement",
+        "bonjour je vous remercie",
+        "Bien not\u00e9 merci !",
+        "je vous remercie cela me convient"
+    ],
+    "Service Non disponible": [
+        "le service que vous m'avez propos\u00e9 est indisponible",
+        "ce n'est pas \u00e0 jour",
+        "je ne trouve pas",
+        "je n'ai pas compris",
+        "ça ne marche pas"
+    ],
+    "Pas de r\u00e9ponse": [
+        "je n'ai pas eu de r\u00e9ponse de votre part",
+        "pouvez vous me r\u00e9pondre",
+        "alors ?"
+    ],
+    "Fin": [
+        "Au revoir",
+        "A bient\u00f4t",
+        "Ciao"
+    ],
+    "Options": [
+        "Pouvez-vous m'aider ?",
+        "Je souhaiterai avoir des informations",
+        "comment pouvez-vous m'aidez ?",
+        "Quels services sont propos\u00e9s ?"
+    ],
+    "Sant\u00e9": [
+        "Je cherche des \u00e9tablissements de soins",
+        " Des renseignements sur la sant\u00e9, structures m\u00e9dicales"
+    ],
+    "Sant\u00e9_options": [
+        "je recherche un h\u00f4pital ou un centre de sant\u00e9 pour des soins",
+        "je voudrais consulter un m\u00e9decin",
+        "J'ai besoin d'une pharmacie pour acheter des m\u00e9dicaments"
+    ],
+    "Hygi\u00e8ne": [
+        "O\u00f9 peut on faire sa toilette",
+        "un endroit o\u00f9 j'ai la possibilit\u00e9 de prendre une douche ou se laver"
+    ],
+    "Conseil": [
+        "donnez vous des conseils"
+    ],
+    "Conseil_options": [
+        "je recherche une assistance sociale",
+        "probl\u00e8me juridique, conjugale"
+    ],
+    "Technologie": [
+        "j'ai besoin d'imprimer un document ou d'utiliser internet",
+        "je cherche \u00e0 me connecter \u00e0 un ordinateur",
+        "je recherche un moyen de t\u00e9l\u00e9phoner, contacter "
+    ],
+    "Alimentation": [
+        "je cherche un point d'aide en alimentaire, un restaurant qui donne des tickets restaurant par exemple",
+        "o\u00f9 peut-on servir un repas chaud",
+        "pouvez vous me dire ou se trouver les restos du coeur",
+        "je veux r\u00e9cup\u00e9rer de quoi me nourrir"
+    ],
+    "Accueil": [
+        "pouvez vous m'orienter pour trouver un logement",
+        "j'ai un probl\u00e8me de logement ",
+        "je voudrais passer la nuit",
+        " ou peut-on se reposer ?",
+        "accueil de jour ou de nuit pour sans-abris"
+    ],
+    "Activit\u00e9s": [
+        "quelles activit\u00e9s de loisirs propose votre structure",
+        " entre visite de mus\u00e9e ou faire du sport"
+    ],
+    "Mat\u00e9riels": [
+        "o\u00f9 peut on trouver des v\u00eatements neufs ou du mat\u00e9riel",
+        "je recherche un magasin de v\u00eatements"
+    ],
+    "Sp\u00e9cialistes": [
+        "je suis \u00e0 la recherche d'un sp\u00e9cialiste",
+        "j'ai besoin d'un cardiologue , pneumologue",
+        "je voudrais consulter un dermatologue, psychologue"
+    ]
+}

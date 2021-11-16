@@ -1,0 +1,74 @@
+{
+    "Bienvenue": [
+        "Bonjour en quoi puis-je vous aider ?",
+        "Bonjour que cherchez vous ?"
+    ],
+    "Remerciements": [
+        "Avec plaisir",
+        "De rien",
+        "Merci \u00e0 vous",
+        "pas de souci",
+        "c'est fait pour \u00e7a"
+    ],
+    "Service Non disponible": [
+        "D\u00e9sol\u00e9 je ne peux pas vous aider. Vous pouvez contacter l'équipe Soliguide et leur donner les détails de ce qui ne va pas."
+    ],
+    "Pas de r\u00e9ponse": [
+        "D\u00e9sol\u00e9 je n'ai pas compris",
+        "Pouvez vous donner plus d'informations",
+        "Pouvez-vous reformuler votre question, demande"
+    ],
+    "Fin": [
+        "Au revoir",
+        "De rien \u00e0 bient\u00f4t",
+        " Pas de probl\u00e8me \u00e0 la prochaine"
+    ],
+    "Options": [
+        "Je peux vous donner des informations sur des services de sant\u00e9, aide alimentaire, hygi\u00e8ne, technologique, logement ou d'autres types de conseils",
+        "Je peux vous proposez des structures r\u00e9pondant \u00e0 vos besoins (m\u00e9decin, h\u00f4pital, accueil, restauration et autres)"
+    ],
+    "Sant\u00e9": [
+        "D'accord et quel types de soins en particulier ?"
+    ],
+    "Sant\u00e9_options": [
+        "D'accord et pouvez-vous me dire o\u00f9 vous \u00e9tes situ\u00e9 ?",
+        "Ou \u00eates vous situ\u00e9?",
+        "Dans quel lieu cherchez-vous ?"
+    ],
+    "Hygi\u00e8ne": [
+        "D'accord et pouvez-vous me dire o\u00f9 vous \u00e9tes situ\u00e9 ?",
+        "Ou \u00eates vous situ\u00e9?",
+        "Dans quel lieu cherchez-vous ?"
+    ],
+    "Conseil": [
+        "Quel type d'assistance n\u00e9cessitez vous ?",
+        "Oui nous proposons des services d'aides sociales ou de logement par exemple"
+    ],
+    "Conseil_options": [
+        "D'accord et pouvez-vous me dire o\u00f9 vous \u00e9tes situ\u00e9 ?",
+        "Ou \u00eates vous situ\u00e9?",
+        "Dans quel lieu cherchez-vous ?"
+    ],
+    "Technologie": [
+        "D'accord et pouvez-vous me dire o\u00f9 vous \u00e9tes situ\u00e9 ?",
+        "Ou \u00eates vous situ\u00e9?",
+        "Dans quel lieu cherchez-vous ?"
+    ],
+    "Alimentation": [
+        "Oui il est possible de se restaurer dans des établissements. Où êtes vous situez ?",
+        "Et où souhaitez vous vous restaurer ?"
+    ],
+    "Accueil": [
+        "Nous pouvons vous accueillir. Où étes vous situez ?",
+        "Et où exactement recherchez-vous votre accueil ?"
+    ],
+    "Activit\u00e9s": [
+        "Nous proposons de quoi divertir les plus jeunes"
+    ],
+    "Mat\u00e9riels": [
+        "Nous r\u00e9cup\u00e9rons des v\u00eatements pour les plus pr\u00e9caires"
+    ],
+    "Sp\u00e9cialistes": [
+        "Je vais voir s'il peut vous recevoir"
+    ]
+}
