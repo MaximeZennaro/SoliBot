@@ -1,0 +1,255 @@
+{
+    "intents": [
+        {
+            "tag": "Bienvenue",
+            "patterns": [
+                "salut",
+                "Bonjour, j'ai besoin de votre aide",
+                "salut quelqu'un peut m'aider ?",
+                "Bonjour",
+                "Bonjour du coup",
+                "bonjour",
+                "Bonjour Jeanne,",
+                "bonjour,",
+                "BONJOUR",
+                "Salut",
+                "rebonjour",
+                "Bonjour,"
+            ],
+            "responses": [
+                "Bonjour que cherchez vous ?",
+                "Bonjour en quoi puis-je vous aider ?"
+            ]
+        },
+        {
+            "tag": "Remerciements",
+            "patterns": [
+                "oui",
+                "NON",
+                "merci !",
+                "parfait merci beaucoup",
+                "ok merci cest gentille",
+                "ok merci",
+                "Merci",
+                " Merci beaucoup pour votre renseignement",
+                "ok merci mais quand",
+                "oui en effet",
+                "oui merci",
+                "MERCI",
+                "Super, merci : l.cloarec@captifs.fr",
+                "merci egalement",
+                "super merci !",
+                "Merci beaucoup!",
+                "bonjour je vous remercie",
+                "non merci",
+                "ok merci bcp +1",
+                "Merci beaucoup",
+                "ok",
+                "OUI",
+                "merci",
+                "merci...!",
+                "je vous remercie cela me convient",
+                "oui exactement",
+                "D'accord",
+                "merci beaucoup",
+                "Bien not\u00e9 merci !",
+                "Ok merci beaucoup",
+                "Merci beaucoup.",
+                "d'accord merci",
+                "non",
+                "Non merci"
+            ],
+            "responses": [
+                "Merci \u00e0 vous",
+                "pas de souci",
+                "Avec plaisir",
+                "De rien",
+                "c'est fait pour \u00e7a"
+            ]
+        },
+        {
+            "tag": "Service Non disponible",
+            "patterns": [
+                "ce n'est pas \u00e0 jour",
+                "le service que vous m'avez propos\u00e9 est indisponible",
+                "J PAS COMPRIS",
+                "je n'ai pas compris",
+                "je ne trouve pas"
+            ],
+            "responses": [
+                "D\u00e9sol\u00e9 je ne peux pas vous aider"
+            ]
+        },
+        {
+            "tag": "Pas de r\u00e9ponse",
+            "patterns": [
+                "je n'ai pas eu de r\u00e9ponse de votre part",
+                "alors ?",
+                "pouvez vous me r\u00e9pondre"
+            ],
+            "responses": [
+                "Pouvez vous donner plus d'informations",
+                "Pouvez-vous reformuler votre question, demande",
+                "D\u00e9sol\u00e9 je n'ai pas compris"
+            ]
+        },
+        {
+            "tag": "Fin",
+            "patterns": [
+                "A bient\u00f4t",
+                "Au revoir",
+                "Ciao",
+                "au revoir"
+            ],
+            "responses": [
+                "De rien \u00e0 bient\u00f4t",
+                "Au revoir",
+                " Pas de probl\u00e8me \u00e0 la prochaine"
+            ]
+        },
+        {
+            "tag": "Options",
+            "patterns": [
+                "Je souhaiterai avoir des informations",
+                "Quels services sont propos\u00e9s ?",
+                "Pouvez-vous m'aider ?",
+                "comment pouvez-vous m'aidez ?",
+                "salut quelqu'un peut m'aider ?"
+            ],
+            "responses": [
+                "Je peux vous donner des informations sur des services de sant\u00e9, aide alimentaire, hygi\u00e8ne, technologique, logement ou d'autres types de conseils",
+                "Je peux vous proposez des structures r\u00e9pondant \u00e0 vos besoins (m\u00e9decin, h\u00f4pital, accueil, restauration et autres)"
+            ]
+        },
+        {
+            "tag": "Sant\u00e9",
+            "patterns": [
+                " Des renseignements sur la sant\u00e9, structures m\u00e9dicales",
+                "Je cherche des \u00e9tablissements de soins"
+            ],
+            "responses": [
+                "D'accord et quel types de soins en particulier ?"
+            ]
+        },
+        {
+            "tag": "Sant\u00e9_options",
+            "patterns": [
+                "J'ai besoin d'une pharmacie pour acheter des m\u00e9dicaments",
+                "je recherche un h\u00f4pital ou un centre de sant\u00e9 pour des soins",
+                "je voudrais consulter un m\u00e9decin"
+            ],
+            "responses": [
+                "Dans quel lieu cherchez-vous ?",
+                "Ou \u00eates vous situ\u00e9?",
+                "D'accord et pouvez-vous me dire o\u00f9 vous \u00e9tes situ\u00e9 ?"
+            ]
+        },
+        {
+            "tag": "Hygi\u00e8ne",
+            "patterns": [
+                "un endroit o\u00f9 j'ai la possibilit\u00e9 de prendre une douche ou se laver",
+                "O\u00f9 peut on faire sa toilette"
+            ],
+            "responses": [
+                "Dans quel lieu cherchez-vous ?",
+                "Ou \u00eates vous situ\u00e9?",
+                "D'accord et pouvez-vous me dire o\u00f9 vous \u00e9tes situ\u00e9 ?"
+            ]
+        },
+        {
+            "tag": "Conseil",
+            "patterns": [
+                "donnez vous des conseils"
+            ],
+            "responses": [
+                "Quel type d'assistance n\u00e9cessitez vous ?",
+                "Oui nous proposons des services d'aides sociales ou de logement par exemple"
+            ]
+        },
+        {
+            "tag": "Conseil_options",
+            "patterns": [
+                "je recherche une assistance sociale",
+                "je recherche le service social",
+                "probl\u00e8me juridique, conjugale"
+            ],
+            "responses": [
+                "Dans quel lieu cherchez-vous ?",
+                "Ou \u00eates vous situ\u00e9?",
+                "D'accord et pouvez-vous me dire o\u00f9 vous \u00e9tes situ\u00e9 ?"
+            ]
+        },
+        {
+            "tag": "Technologie",
+            "patterns": [
+                "j'ai besoin d'imprimer un document ou d'utiliser internet",
+                "je cherche \u00e0 me connecter \u00e0 un ordinateur",
+                "je recherche un moyen de t\u00e9l\u00e9phoner, contacter "
+            ],
+            "responses": [
+                "Dans quel lieu cherchez-vous ?",
+                "Ou \u00eates vous situ\u00e9?",
+                "D'accord et pouvez-vous me dire o\u00f9 vous \u00e9tes situ\u00e9 ?"
+            ]
+        },
+        {
+            "tag": "Alimentation",
+            "patterns": [
+                "je cherche un point d'aide en alimentaire, un restaurant qui donne des tickets restaurant par exemple",
+                "o\u00f9 peut-on servir un repas chaud",
+                "je veux r\u00e9cup\u00e9rer de quoi me nourrir",
+                "pouvez vous me dire ou se trouver les restos du coeur"
+            ],
+            "responses": [
+                "Et o\u00f9 souhaitez vous vous restaurer ?",
+                "Oui il est possible de se restaurer dans des \u00e9tablissements. O\u00f9 \u00eates vous situez ?"
+            ]
+        },
+        {
+            "tag": "Accueil",
+            "patterns": [
+                "j'ai un probl\u00e8me de logement ",
+                "je voudrais passer la nuit",
+                " ou peut-on se reposer ?",
+                "pouvez vous m'orienter pour trouver un logement",
+                "accueil de jour ou de nuit pour sans-abris",
+                "Accueil de jour"
+            ],
+            "responses": [
+                "Nous pouvons vous accueillir. O\u00f9 \u00e9tes vous situez ?",
+                "Et o\u00f9 exactement recherchez-vous votre accueil ?"
+            ]
+        },
+        {
+            "tag": "Activit\u00e9s",
+            "patterns": [
+                "quelles activit\u00e9s de loisirs propose votre structure",
+                " entre visite de mus\u00e9e ou faire du sport"
+            ],
+            "responses": [
+                "Nous proposons de quoi divertir les plus jeunes"
+            ]
+        },
+        {
+            "tag": "Mat\u00e9riels",
+            "patterns": [
+                "o\u00f9 peut on trouver des v\u00eatements neufs ou du mat\u00e9riel",
+                "je recherche un magasin de v\u00eatements"
+            ],
+            "responses": [
+                "Nous r\u00e9cup\u00e9rons des v\u00eatements pour les plus pr\u00e9caires"
+            ]
+        },
+        {
+            "tag": "Sp\u00e9cialistes",
+            "patterns": [
+                "je suis \u00e0 la recherche d'un sp\u00e9cialiste",
+                "j'ai besoin d'un cardiologue , pneumologue",
+                "je voudrais consulter un dermatologue, psychologue"
+            ],
+            "responses": [
+                "Je vais voir s'il peut vous recevoir"
+            ]
+        }
+    ]
+}
