@@ -1,0 +1,40 @@
+{
+    "Bienvenue": [
+        "Bonjour, j'ai besoin de votre aide",
+        "salut j'ai besoin d'aide",
+        "salut quelqu'un peut m'aider ?",
+        "rebonjour",
+        "bonjour",
+        "Salut",
+        "Hello"
+    ],
+    "Remerciements": [
+        " Merci beaucoup pour votre renseignement",
+        "bonjour je vous remercie",
+        "Bien not\u00e9 merci !",
+        "je vous remercie cela me convient"
+    ],
+    "Service Non disponible": [
+        "le service que vous m'avez propos\u00e9 est indisponible",
+        "ce n'est pas \u00e0 jour",
+        "je ne trouve pas",
+        "je n'ai pas compris",
+        "ça ne marche pas"
+    ],
+    "Pas de r\u00e9ponse": [
+        "je n'ai pas eu de r\u00e9ponse de votre part",
+        "pouvez vous me r\u00e9pondre",
+        "alors ?"
+    ],
+    "Fin": [
+        "Au revoir",
+        "A bient\u00f4t",
+        "Ciao"
+    ],
+    "Options": [
+        "Pouvez-vous m'aider ?",
+        "Je souhaiterai avoir des informations",
+        "comment pouvez-vous m'aidez ?",
+        "Quels services sont propos\u00e9s ?"
+    ]
+}

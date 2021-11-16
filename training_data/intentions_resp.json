@@ -1,0 +1,30 @@
+{
+    "Bienvenue": [
+        "Bonjour en quoi puis-je vous aider ?",
+        "Bonjour que cherchez vous ?"
+    ],
+    "Remerciements": [
+        "Avec plaisir",
+        "De rien",
+        "Merci \u00e0 vous",
+        "pas de souci",
+        "c'est fait pour \u00e7a"
+    ],
+    "Service Non disponible": [
+        "D\u00e9sol\u00e9 je ne peux pas vous aider. Vous pouvez contacter l'équipe Soliguide et leur donner les détails de ce qui ne va pas."
+    ],
+    "Pas de r\u00e9ponse": [
+        "D\u00e9sol\u00e9 je n'ai pas compris",
+        "Pouvez vous donner plus d'informations",
+        "Pouvez-vous reformuler votre question, demande"
+    ],
+    "Fin": [
+        "Au revoir",
+        "De rien \u00e0 bient\u00f4t",
+        " Pas de probl\u00e8me \u00e0 la prochaine"
+    ],
+    "Options": [
+        "Je peux vous donner des informations sur des services de sant\u00e9, aide alimentaire, hygi\u00e8ne, technologique, logement ou d'autres types de conseils",
+        "Je peux vous proposez des structures r\u00e9pondant \u00e0 vos besoins (m\u00e9decin, h\u00f4pital, accueil, restauration et autres)"
+    ]
+}

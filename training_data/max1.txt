@@ -1,0 +1,1337 @@
+Conversation100
+USER_ASK: s'ils vous plaît je veux savoir est ce qu'il y a des écoles ou des centre qui aides les étudiants étrangers pour améliorer leur langue de français à Saint-Denis ?
+RESPONSE: Bonsoir ! un instant, je regarde
+RESPONSE: Vous pouvez contacter l'association UNIR au  07 80 90 36 77 (pendant la journée), ils accompagnent les étudiants pour les cours de français notamment
+RESPONSE: Souvent, les inscriptions aux cours de français se font en septembre et en janvier. Ils sauront vous dire vers qui vous tourner
+USER_ASK: Merci infiniment.
+
+Bien cordialement.
+
+Le lun. 22 mars 2021 à 19:47, charlotte - Solinum
+<charlotte@soliguide.on.crisp.email> a écrit :
+RESPONSE: Bonsoir !
+
+Malheureusement nous ne pouvons pas vous répondre pour le moment mais nous le ferons dès que possible. Vous pouvez laisser votre mail, écrire votre question, et nous reviendrons vers vous aussi vite que possible. En cas d'urgence, vous pouvez appeler le 115. 
+
+A bientôt :)
+
+Conversation101
+RESPONSE: Vous voyez une information qui n'est plus à jour ou incomplète ? Dites le nous, nous la modifions :)
+USER_ASK: Information : Covid-19
+Les activités culturelles et autres ateliers de groupe sont suspendus durant toute la durée du confinement.
+RESPONSE: Bonjour
+RESPONSE: Je vous remercie de cette information
+RESPONSE: Cela concerne l'Emmaus de Cergy ?
+USER_ASK: non L'ESI AGORA à Paris
+RESPONSE: Très bien,
+RESPONSE: Je fais la modification tout de suite.
+
+Conversation102
+RESPONSE: Bonjour ! Avez-vous besoin d'aide dans votre recherche ?
+USER_ASK: comment accéder à la fiche de l'association
+RESPONSE: Bonjour, à quelle association faites-vous référence ?
+USER_ASK: croix-rouge boucle de seine sud
+RESPONSE: Un instant s'il vous plait, je me renseigne
+RESPONSE: Vous êtes bien localisé à Saint-Germain-en-Laye ?
+USER_ASK: a Chatou
+RESPONSE: Voici le lien vers la fiche de votre structure : https://soliguide.fr/fiche/6596
+RESPONSE: Vous voyez une information qui n'est plus à jour ou incomplète ? Dites le nous, nous la modifions :)
+USER_ASK: merci
+RESPONSE: Si vous souhaitez pouvoir la modifier par vous-même, je peux vous renvoyer un lien d'invitation
+USER_ASK: j'ai bien un lien mais vers une page qui n'existe pas
+RESPONSE: Le lien que je viens de vous transmettre ?
+USER_ASK: non, un mail reçu par mail il y a 3/4 d'heure
+RESPONSE: C'est noté. Je fais à nouveau la manipulation. Est-ce toujours l'adresse jean.brousse@croix-rouge.fr ?
+USER_ASK: oui
+RESPONSE: Je vous renvoie un lien d'invitation à créer un compte, n'hésitez pas à revenir vers moi en cas de problème !
+RESPONSE: Je vois qu'un compte a déjà été créé via cette adresse email. Vous pouvez vous rendre sur Soliguide, en haut à droite dans l'espace "mon compte" et faire la manipulation pour vous connecter, et renseigner "mot de passe perdu"
+RESPONSE: Vous pourrez ainsi changer le mot de passe et accéder aux fiches de l'unité locale boucle de seine
+USER_ASK: j'ai bien créé un compte et souhaite modifier la fiche avec le nouveau confinement
+RESPONSE: Pour cela, vous pouvez vous connecter à votre compte (si ce n'est pas déjà fait) et accéder à votre fiche via ce dernier
+
+Conversation103
+RESPONSE: Vous voyez une information qui n'est plus à jour ou incomplète ? Dites le nous, nous la modifions :)
+RESPONSE: Bonjour ! Avez-vous besoin d'aide dans votre recherche ?
+USER_ASK: L'activité couture est ouverte le samedi entre 13H30 et 16 H sauf vacances scolaires.
+RESPONSE: D'accord, merci beaucoup pour votre retour! Voyez-vous d'autres informations à mettre à jou r?
+USER_ASK: Les sorties culturelles sont réservées aux adhérent-e-s de l'ASTI et leurs familles une fois par mois.
+RESPONSE: D'accord, nous allons modifier ça. Y'a t'il des changements pour ce confinement ou vos services restent inchangés ?
+USER_ASK: Le local des Alouettes est fermé au public adulte depuis novembre 2020;
+USER_ASK: Nous restons en contact avec nos adhérent-e-s par whatsApp, portable et le téléphone de l'association.
+RESPONSE: D'accord merci beaucoup ! Le téléphone est toujours celui-ci 0628306921 ?
+USER_ASK: OUI, c'est le numéro joignable de l'association.
+RESPONSE: super merci à vous
+RESPONSE: Nous allons mettre à jour vos informations :)
+USER_ASK: Merci. Quand le local sera ouvert, nous reprendrons nos activités normales.
+RESPONSE: c'est noté !
+RESPONSE: Bonne journée à vous
+
+Conversation104
+RESPONSE: Bonjour ! Avez-vous besoin d'information sur Merci pour l'invit' ?
+USER_ASK: je me renseigne pour savoir si une femme peut avoir besoin d’être hébergée dans ma région
+RESPONSE: Bonjour,
+RESPONSE: Vous vous proposez comme hébergeur solidaire c'est ça ?
+USER_ASK: quand j’aurai plus de renseignements sur les conditions d’accueil
+RESPONSE: D'accord, je peux répondre à vos questions si vous les souhaitez :) 
+Dans tous les cas, vous pouvez remplir le formulaire d'inscription en tant qu'hébergeur solidaire, cela ne vous engage pas tout de suite. Une chargée du dispositif vous contactera afin d'échanger sur les conditions d'accueil et pour voir si vous souhaitez entrer dans le dispositif ou non
+USER_ASK: ok je vais remplir le formulaire
+RESPONSE: Super ! Merci à vous :)
+
+Conversation105
+USER_ASK: n'y a-t-il pas de problème à résoudre?  car mon adresse n'est pas ici à bobigny :'(
+RESPONSE: No, as I said earlier, that is not a problem.
+USER_ASK: ahhh! d'accord, merci
+RESPONSE: Bonne soirée!
+USER_ASK: alors encore une fois merci pour votre aide et bonne soirée +1
+USER_ASK: bonjour
+RESPONSE: Bonjour
+USER_ASK: J'ai appelé là-bas et ils m'ont dit qu'ils n'acceptaient que plus de 25 ans, non 29. donc j'ai 29 ans x)
+RESPONSE: Je vous met en contact avec ma collègue qui avait communiqué avec vous ! :)
+USER_ASK: ahh! d'accord merci
+USER_ASK: je dois faire quelque chose dans ma vie mais je ne sais pas ce que je peux faire ... et mon temps se perd de jour en jour. :'(
+USER_ASK: d'abord je veux aller apprendre le français mais c'est trop difficile d'avoir des cours de français :'(
+RESPONSE: Je vais essayer de vous aider. Vous cherchez des cours de français
+RESPONSE: Dans quelle ville cherchez vous ?
+USER_ASK: Je veux aller travailler et gagner de l'argent mais ma langue n'est pas bonne, donc ça me pose problème :'(
+RESPONSE: D'accord.
+RESPONSE: Je vais essayer de vous trouver des cours de français.
+RESPONSE: Dans quelle ville êtes vous ?
+USER_ASK: mon adresse est creteil l'echat mais je reste a bobigny avec mes amis.
+USER_ASK: Je reste toujours dans ma chambre .. je me sens tellement ennuyeux.  et je ne sais pas quoi faire :'(
+RESPONSE: Voici les structures qui peuvent vous aider : https://soliguide.fr/search/creteil/formation-francais
+RESPONSE: Je vous conseille de les appeler avant de vous y rendre en raison du confinement
+RESPONSE: https://soliguide.fr/search/bobigny/formation-francais
+USER_ASK: pouvez-vous me contacter lorsque vous trouverez des cours de français et des types de travail que ce soit
+RESPONSE: C'est à dire ?
+RESPONSE: Je vous ai proposé ici des cours de français :)
+RESPONSE: Vous avez essayé d'appeler ?
+USER_ASK: je contracte dans ce numéro à bobigny mais ils m'ont dit que 50 euro pour inscription :'(
+USER_ASK: c'est pas gratuit
+RESPONSE: Ah mince, regardez les autres structures que je vous ai propsoé...
+USER_ASK: ok merci beaucoup..et votre super aide.
+RESPONSE: De rien ! Si besoin revenez vers nous :)
+USER_ASK: ok merci.Je vais chercher des cours de français.Si je ne reçois pas, je vous contacterai
+RESPONSE: PArfait ! bon courage :)
+USER_ASK: merci +1
+
+Conversation106
+RESPONSE: Bonjour ! Avez-vous besoin d'aide dans votre recherche ?
+USER_ASK: Bonjour,
+RESPONSE: Bonjour
+USER_ASK: Le centre de santé, malgré le confinement n'a pas changé ses horaires d'ouverture au public, les consultations se font sur RDV
+RESPONSE: Bonjour, merci pour cette informations. Je mets cela à jour de suite !
+USER_ASK: merci et bonne journée
+
+Conversation107
+RESPONSE: Vous voyez une information qui n'est plus à jour ou incomplète ? Dites le nous, nous la modifions :)
+RESPONSE: Bonjour ! Avez-vous besoin d'aide dans votre recherche ?
+USER_ASK: bonjour  en raison des nouvelles dispositions sanitaires depuis le samedi 20 mars, le Vestiboutique est fermé jusqu'à nouvel ordre
+RESPONSE: Bonjour, merci pour cette information. Je mets cela à jour de suite
+
+Conversation108
+RESPONSE: Vous voyez une information qui n'est plus à jour ou incomplète ? Dites le nous, nous la modifions :)
+USER_ASK: Les cours en extérieur à Stalingrad sont interrompus depuis confinement.
+RESPONSE: Bonjour à vous
+RESPONSE: Merci pour cette information. Je mets cela de suite sur la fiche !
+
+Conversation109
+RESPONSE: Vous voyez une information qui n'est plus à jour ou incomplète ? Dites le nous, nous la modifions :)
+RESPONSE: Bonjour ! Avez-vous besoin d'aide dans votre recherche ?
+USER_ASK: Bonjour,
+RESPONSE: Bonjour
+RESPONSE: Que puis je faire pour vous aider ?
+USER_ASK: Accueil Louise et Rosalie. J'aurais besoin de modifier des informations. Comment faire ?
+USER_ASK: Laetitia
+RESPONSE: Dites moi les modifications/ informations à apporter et je le fais !
+RESPONSE: Pour nous transmettre cela, vous pouvez passer par le chat en ligne, nous appeler ou nous envoyer un mail à paris@solinum.org
+USER_ASK: Les modifications à apporter :
+- Notre accueil est un accue*il inconditionnel *et nous ne demandons pas
+une situation "régulière".
+- Ajouter *l'anglais *dans les langues parlées
+Je vous remercie.
+Bien à vous
+Laetitia
+RESPONSE: Les informations ont été mises à jour. Un grand merci à vous. Je vous souhaite une excellente journée. Cordialement. Jeanne
+USER_ASK: Bonjour,
+
+L'accueil Louise et Rosalie ouvre une nouvelle permanence que je vous
+remercie d'ajouter sur nos indications:
+Ouverture :
+*mardi.* mercredi, jeudi de 9h à 12h30
+dimanche de 10h30 à 14h .
+
+Bien à vous
+
+*Laetitia Charachon*
+
+*06 87 68 03 83*
+
+
+
+
+*Accueil Louise et Rosalie*
+
+97, rue de Sèvres - Paris 6e
+
+Tél : 01 77 45 89 45
+
+www.louiseetrosalie.com
+RESPONSE: Bonjour
+RESPONSE: Je m'occupe de cela. Merci beaucoup pour l'information.
+USER_ASK: Bonjour Jeanne,
+
+Nouvelle modification pour l'accueil Louise et Rosalie :
+L'accueil ouvre également les vendredis à compter du 26 mars inclus)
+Nouvelle formulation :
+Ouverture :
+mardi. mercredi, jeudi , vendredi de 9h à 12h30
+dimanche de 10h30 à 14h .
+
+Merci .
+
+Conversation110
+USER_ASK: Bonjour,
+RESPONSE: Bonjour
+USER_ASK: Le téléchargement d'une photo sur une fiche ne fonctionne pas... du moins je n'y arrive pas
+RESPONSE: D'accord. Je vais remonter cela auprès de mon équipe technique. Voulez vous que j'essaie?
+USER_ASK: oui si vous voulez
+RESPONSE: Pouvez vous m'envoyer le nom de votre structure, la ville ou elle est située et la photo ?
+USER_ASK: maison des adolescents à la Garenne Colombes (je viens de la modifier). comment puis je vous envoyer la photo?
+RESPONSE: Vous pouvez me l'envoyer ici ou alors par mail à jeanne@solinum.org
+RESPONSE: Bien reçu, merci ! Je teste de suite ! :)
+USER_ASK: merci
+RESPONSE: Pas plus de succès de mon côté... Notre site est en maintenance car nous lui ajoutons de nouvelles fonctionnalités et cela engendre des petits bugs... Désolée pour ce dérangement
+USER_ASK: j'essaierai ultérieurement, ce n'est pas grave. Merci
+RESPONSE: Merci à vous !
+
+Conversation111
+RESPONSE: Vous voyez une information qui n'est plus à jour ou incomplète ? Dites le nous, nous la modifions :)
+RESPONSE: Bonjour ! Avez-vous besoin d'aide dans votre recherche ?
+USER_ASK: bonjour,
+USER_ASK: l'accueil de jour de la claire fontaine ne se situe plus au quai de la fosse
+RESPONSE: Bonjour
+RESPONSE: Pouvez vous m'indiquer ou il se situe maintenant afin de mettre à jour cette fiche s'il vous plait
+USER_ASK: il se situe au sein du projet les 5 ponts de l'association les eaux vives
+RESPONSE: Merci beaucoup, je fais la mise à jour ! :)
+USER_ASK: https://5ponts-nantes.eu/infos-pratiques/
+USER_ASK: c'est moi qui vous remercie vous et soliguide; j'ai pu orienter beaucoup de demandeurs d'asile ou de personnes déboutées
+RESPONSE: Merci pour votre message!
+
+Conversation112
+RESPONSE: Vous voyez une information qui n'est plus à jour ou incomplète ? Dites le nous, nous la modifions :)
+USER_ASK: BONJOUR
+RESPONSE: Bonjour
+USER_ASK: Les horaires indiqués ne sont pas les bons. Compte tenu des dernières indications du gouvernement la structure ouvre donc du lundi de 9H à12H30 et 14H à 17H, mardi, mercredi et jeudi de 14 h à 18H;
+USER_ASK: sauf le vendredi ou cela ferme à 16H30;
+USER_ASK: De plus les âges vont jusqu'à 30 ans
+RESPONSE: Les modifications ont bien été prises en compte.
+RESPONSE: https://soliguide.fr/fiche/bureau-information-jeunesse-colombes-10148
+USER_ASK: Attention au mercredi erreur il s'agit également d'une ouverture le matin
+RESPONSE: J'ai modifié les horaires du mercredi. Pouvez-vous me dire si c'est correct
+
+Conversation113
+RESPONSE: Bonjour ! Avez-vous besoin d'aide dans votre recherche ?
+USER_ASK: bonjour, je cherche une structure pour une personne hébergée par le 115, à saint Denis, qui a besoin d'aide pour ses démarches et n'arrive pas à avoir de rdv avec un.e travailleur social
+RESPONSE: Bonjour
+RESPONSE: Ok je regarde
+USER_ASK: Merci beaucoup.
+RESPONSE: Pour quel type de démarche ?
+USER_ASK: changement de nom sur les papiers, relancer l'avocat désigné qui la promène sans jamais la rappeler, faire la demande de logement social
+USER_ASK: c'est quelqu'un que je suis à la Cimade mais elle a ses papiers maintenant, une carte de 10 ans comme mère de réfugiée
+RESPONSE: D'accord
+RESPONSE: Les services sociaux et CCAS de Saint-Denis, vous avez essayé ?
+USER_ASK: elle a essayé mais ils sont débordés jsutement
+RESPONSE: Oui, malheureusement tout le monde est débordé sur Saint-Denis...
+RESPONSE: Il y a la Maison de la Solidarité, vous pouvez les contacter mais si je me rappelle bien je ne suis pas sûr qu'il fasse du suivi pour une personne hébergée au 115 : https://soliguide.fr/fiche/maison-municipale-de-la-solidarite-saint-denis-3011
+USER_ASK: merci
+RESPONSE: Vous pouvez également voir auprès du Secours Catholique, mais pareil il vaut mieux les contacter au préalable car ils ont durablement réduit leurs activités avec le covid et sont souvent saturés : https://soliguide.fr/fiche/secours-catholique-de-saint-denis-3413
+
+Conversation114
+RESPONSE: Bonjour ! Avez-vous besoin d'aide dans votre recherche ?
+USER_ASK: ANIMAUX ACCEPTés
+RESPONSE: Bonsoir !
+
+Malheureusement nous ne pouvons pas vous répondre pour le moment mais nous le ferons dès que possible. Vous pouvez laisser votre mail, écrire votre question, et nous reviendrons vers vous aussi vite que possible. En cas d'urgence, vous pouvez appeler le 115. 
+
+A bientôt :)
+RESPONSE: Bonjour, désolée pour le temps de réponse. Je reste disponible pour toute demande !
+USER_ASK: Merci, je suis à la recherche d'accueil de jour à paris acceptant les animaux
+USER_ASK: je n'arrive pas a faire une recherche assez précise
+RESPONSE: Bonjour
+RESPONSE: Je vais regarder cela et je reviens vers vous.
+USER_ASK: Merci beaucoup!
+RESPONSE: LE site est en maintenance afin de l'améliorer donc la recherche n'est pas optimale...
+RESPONSE: Vous avez cet accueil pour les femmes uniquement : https://soliguide.fr/fiche/accueil-louise-et-rosalie-paris-10676
+RESPONSE: Je recherche pour les hommes
+USER_ASK: Merci de votre aide!
+RESPONSE: Pour les personnes entre 18 et 30  ans : https://soliguide.fr/fiche/itinerances-paris-13
+RESPONSE: https://soliguide.fr/fiche/esi-la-maison-dans-le-jardin-saint-michel-paris-20
+RESPONSE: Pour les 18-25 (animaux a attacher devant les locaux, pas autorisés dedans) : https://soliguide.fr/fiche/halte-jeunes-18-25-paris-22
+RESPONSE: https://soliguide.fr/fiche/esi-arche-avenirs-paris-25
+RESPONSE: https://soliguide.fr/fiche/esi-centre-rene-coty-paris-32
+USER_ASK: Merci encore c'est parfait!
+RESPONSE: De rien, si besoin je reste disponible !
+
+Conversation115
+RESPONSE: Bonjour ! Avez-vous besoin d'aide dans votre recherche ?
+USER_ASK: oui
+RESPONSE: Bonjour
+RESPONSE: Comment est ce que je peux vous aider ?
+USER_ASK: oui je recherche un emploi sur compiègne pour septembre prochain
+RESPONSE: Vous pouvez vous rapprocher de structures proposant un accompagnement à l'emploi. Je vous conseille de vous rendre dans une agence Pôle emploi.
+RESPONSE: Et une mission locale si vous avez moins de 25 ans.
+RESPONSE: Je vous envoie également des liens de structures pouvant vous accompagner dans vos démarches et pour trouver les meilleurs offres
+RESPONSE: L’association PARTAGE TRAVAIL : http://www.partagetravail60.fr/qui-sommes-nous/#:~:text=L'association%20PARTAGE%20TRAVAIL%20est,7%20du%20code%20du%20travail
+RESPONSE: Il ya également le Centre d'information, d'accompagnement, d'orientation et formation professionnelle : https://www.gralon.net/mairies-france/oise/association-centre-d-information--d-accompagnement--d-orientation-et-formation-professionnelle---france-ceprifime--ciaof-ceprifime--compiegne_W603003572.htm
+RESPONSE: Et puis aussi Mosaik pour l'emploi : https://www.gralon.net/mairies-france/oise/association-mosaik-pour-l-emploi-compiegne_W603002230.htm
+USER_ASK: es ce que c'est possible même si on est étudiat en bts sp3s
+RESPONSE: Je pense que oui, mais je vous conseille de contacter directement les structures pour en savoir plus
+RESPONSE: Vous pouvez également vous rapprocher de votre structure d'étude pour avoir un accompagnement
+USER_ASK: d'accord merci
+RESPONSE: Je reste disponible, si besoin
+USER_ASK: merci
+
+Conversation116
+RESPONSE: Vous voyez une information qui n'est plus à jour ou incomplète ? Dites le nous, nous la modifions :)
+USER_ASK: Bonjour
+RESPONSE: Bonjour
+USER_ASK: Petite précision concernant  les jours d'ouverture et horaires.
+USER_ASK: Vestiboutique ouverte au public mardi-vendredi 15h-19h_
+USER_ASK: Vestiboutique ouverte pour dépôt de dons et tri vêtements lundi-mercredi 14-18h
+RESPONSE: Plus d'ouverture le samedi ?
+USER_ASK: Domiciliation jeudi 15-18h et samedi 10-12h
+RESPONSE: Vous pouvez actualiser la fiche, j'ai bien pris en compte vos modifications
+RESPONSE: Par ailleurs, je vous ai envoyé un mail avec un lien d'invitation qui vous permettra de créer votre compte et de modifier vos informations. Vous aurez aussi accès à des informations réservées aux acteurs
+USER_ASK: Non en ce moment de pandémie pour éviter de faire se côtoyer les bénéficiaires vestiboutique et domiciliation
+RESPONSE: Et la fiche de l'UL ?
+RESPONSE: https://soliguide.fr/fiche/6577
+RESPONSE: Avez-vous reçu le lien ?
+USER_ASK: oui parfait
+RESPONSE: d'accord je passe la fiche en ligne alors
+USER_ASK: merci
+RESPONSE: Je vous en prie. Je viens de vous communiquer le tutoriel pour la prise en main du compte professionnel
+
+Conversation117
+USER_ASK: bonjour je souhaiterais savoitcomment m i.scrire pourun colis alimentaire svp? cordialement
+RESPONSE: Bonjour,
+RESPONSE: Où êtes-vous située ?
+USER_ASK: a villejuif
+RESPONSE: D'accord, êtes-vous déjà accompagnée par un travailleur social ?
+USER_ASK: non
+RESPONSE: Je regarde quelle structure peut vous aider, merci de patienter :)
+USER_ASK: j ai un rdv telephonique avec l espace de solidarite EDS
+USER_ASK: le 22mars
+RESPONSE: Ok je vois, pouvez-vous vous déplacer dans une autre ville si besoin ?
+USER_ASK: en attendant je souhaitais recuperer au moins un colis alimentaire si c est possible
+USER_ASK: oui je peux me deplacer
+RESPONSE: Cet après-midi jusque 16h30, le secours populaire peut vous aider : https://soliguide.fr/fiche/secours-populaire-comite-de-villejuif-7025
+RESPONSE: Les colis alimentaire sont sur inscription, vous pouvez les appeler dès maintenant au 0146787820
+RESPONSE: Vous pouvez également voir avec le Secours Populaire pour un accompagnement social
+RESPONSE: Avez-vous besoin d'un autre renseignement ?
+USER_ASK: non ca ira merci
+RESPONSE: Je vous en prie, je vous souhaite une bonne journée :)
+USER_ASK: merci egalement
+
+Conversation118
+RESPONSE: Vous voyez une information qui n'est plus à jour ou incomplète ? Dites le nous, nous la modifions :)
+USER_ASK: bonjour,
+USER_ASK: une information à ajouter, nous proposons une consultation sans rendez vous en médecine générale du lundi au vendredi de 09h00 à 12h00
+RESPONSE: Bonjour,
+RESPONSE: D'accord ! Merci beaucoup pour l'information, je la rajoute. Voyez-vous d'autres choses à modifier ou ajouter ?
+USER_ASK: je pense aussi qu'il est important de préciser que le cms est aussi centre de planification et d’éducation familiale avec une prise en charge gratuite et/ou anonyme si besoin
+RESPONSE: Merci, j'ai modifié
+USER_ASK: c'est tout pour l'instant, je reviens vers vous si nécessaire, bonne journée
+RESPONSE: Merci à vous ! Excellente journée
+USER_ASK: merci...!
+
+Conversation119
+RESPONSE: Bonjour ! Avez-vous besoin d'information sur Merci pour l'invit' ?
+USER_ASK: bonjour, est cepossible d'héberger ponctuellement?
+RESPONSE: Bonjour, le dispositif Merci pour l'invit' consiste à un hébergement de minimum 2 semaines car il s'inscrit dans une démarche de réinsertion pour l'hébergée. Il est cependant possible de vous inscrire au formulaire "Devenir hébergeur" afin d'en discuter avec un membre de l'équipe. Une catégorie hébergement d'urgence existe en effet mais elle est moins sollicitée.
+
+Conversation120
+RESPONSE: Bonjour ! Avez-vous besoin d'aide dans votre recherche ?
+USER_ASK: COMMENT CREER UN COMPTE
+RESPONSE: Bonjour, êtes vous une structure référencée sur le Soliguide, ou souhaitez vous uniquement consulter le Soliguide ?
+USER_ASK: totem.president@gmail.com
+USER_ASK: Nous souhaitons referencer notre structure
+RESPONSE: Vous êtes bien situé à Saint Nazaire?
+USER_ASK: oui tout à fait
+RESPONSE: Super! J'ai transmis votre demande à la chargée de développement en Loire Atlantique, Victoire. Pouvez-vous svp me communiquer votre numéro de téléphone afin qu'elle puisse vous contacter?
+USER_ASK: oui 0613588333
+RESPONSE: Bonjour, je suis Victoire à Nantes, vous êtes dispo dans cinq minutes pour que je vous appelle ?
+USER_ASK: plutot cet apres midi vers 16h
+RESPONSE: très bien, je vous appelle à 16h !
+USER_ASK: merci beaucoup
+
+Conversation121
+USER_ASK: bonjour qu'elles sont les aides que vous apportez aux personnes sans travail
+RESPONSE: Bonjour,
+RESPONSE: Vous recherchez un accompagnement à l'emploi ?
+USER_ASK: oui mais je suis mère célibataire avec 1 enfants je veux faire quelque chose
+RESPONSE: D'accord, où êtes-vous située ?
+USER_ASK: je suis logé par 115 a Villejuif
+RESPONSE: Ok, vous êtes accompagnée par un travailleur social ?
+USER_ASK: oui par eds Alfortville
+RESPONSE: d'accord, êtes-vous en situation régulière ?
+USER_ASK: non
+RESPONSE: D'accord, je regarde vers quelle structure je peux vous orienter. Merci de patienter :)
+USER_ASK: ok merci
+RESPONSE: Désolée pour le temps d'attente, j'ai demandé à la personne en charge sur le 94, nous recherchons la meilleure association pour vous.
+RESPONSE: Vous êtes à la recherche d'un emploi ou d'une formation ?
+RESPONSE: Pouvez-vous vous déplacer facilement ? Sur Paris par exemple ?
+USER_ASK: peu importe ce que moi aussi je peux faire vu ma situation s'il vous plaît travail ou formation
+USER_ASK: oui je peux me déplacer
+RESPONSE: Alors, pour votre situation, vous pouvez vous rendre ici, c'est ouvert demain de 14h00 à 16h15 mais il faut que vous preniez rendez-vous par téléphone avant : https://soliguide.fr/fiche/10363
+RESPONSE: Sinon vous pouvez y aller sans rendez-vous le samedi de 9h30 à 12h00
+RESPONSE: N'hésitez pas à revenir vers nous si besoin d'une autre information :)
+USER_ASK: Ok merci beaucoup
+
+Le mer. 17 mars 2021 à 18:03, Alice - Solinum
+<alice@soliguide.on.crisp.email> a écrit :
+
+Conversation122
+USER_ASK: Elle ne travaille pas aujourd'hui, je verrai avec elle demain. Il semblerait qu'elle n'a pas reçu l'invitation. Je lui avais déjà demandé si elle avait reçu l'invitation;
+USER_ASK: Je ferai un essai avec une autre collègue pour voir si ça fonctionne
+RESPONSE: Nous allons faire remonter l'information pour qu'on puisse modifier les fiches accessibles après l'envoi de l'invitation.
+RESPONSE: Si, le compte a été créé.
+RESPONSE: Pour les autres collègues vous pouvez me demander et je coche les fiches concernées.
+USER_ASK: Merci , je vous tiendrai informer si je n'y arrive pas.
+RESPONSE: D'accord. Je vous en prie
+USER_ASK: Bonjour Blanche, je me permets de vous interpeler  , je suis actuellement sur Soliguide, et je n'arrive pas à accéder à mon compte. Merci
+RESPONSE: Bonjour Marie-Orphélia
+RESPONSE: Pouvez-vous me donner plus de précisions ?
+USER_ASK: Je voudrais accéder au compte professionnel
+RESPONSE: Lorsque vous êtes sur la page général tout en haut à droite vous avez un onglet compte
+USER_ASK: Oui mais ça ne fonctionne pas
+RESPONSE: Pouvez-vous me faire une capture d'ecran de votre ordinateur ?
+USER_ASK: Je rencontre ce problème depuis lundi
+RESPONSE: Essayer en navigation privée
+USER_ASK: Je suis partie du lien que vous m'aviez transmi s pour m'inviter à me connecter sur le compte pro et cela ne fonctionne pas
+RESPONSE: Taper dans votre barre de recherche Soliguide
+USER_ASK: D'accord, j'essaye
+RESPONSE: Puis sur la page cliquer sur mon compte tout en haut à droite et sélectionner le champ se connecter
+USER_ASK: ça ne fonctionne pas !
+USER_ASK: Je viens de vous transmettre la capture d'écran
+RESPONSE: Qu'est-ce qui ne fonctionne pas vous n'arrivez pas à arriver sur le site Soliguide ?
+USER_ASK: j'arrive sur le site Soliguide mais pas sur le compte pro
+RESPONSE: Essayer de passer à une navigation privée
+RESPONSE: Quand vous etes sur le site Soliguide est-ce que vous cliquer sur mon compte ?
+USER_ASK: Qu'est ce que c'est une navigation privée
+USER_ASK: Oui je clique sur mon compte
+RESPONSE: Pour passer à une navigation privée vous devez cliquer sur les 3 petits points en haut de votre navigateur
+USER_ASK: J'ai déjà travailler sur mon compte pro sans problème mais depuis lundi, je ne comprends pas ce qui se passe.
+USER_ASK: J'essaye
+RESPONSE: Je fais une remonté de bug de mon côté. N'hésitez pas à contacter votre service informatique également
+RESPONSE: avez-vous cliquer sur les 3 petits boutons la haut à droite ?
+RESPONSE: Après vous cliquer sur nouvelle fênetre en navigation privée
+USER_ASK: merci, je verrai avec mon service Informatique demain matin. Il est fermé à cette heure
+USER_ASK: Merci Blanche, bonne fin de journée.
+RESPONSE: Merci vous également
+
+Conversation123
+RESPONSE: Vous voyez une information qui n'est plus à jour ou incomplète ? Dites le nous, nous la modifions :)
+USER_ASK: L'accueil est sur rdv,
+RESPONSE: Bonjour
+RESPONSE: Pouvez vous me signaler la structure en question s'il vous plait ?
+RESPONSE: Merci beaucoup pour votre information !
+USER_ASK: pij de Fontenay le fleury
+RESPONSE: Parfait ! Je préviens ma collègue en charge de cela !
+RESPONSE: Si vous voyez d'autres informations à mettre à jour n'hésitez pas :)
+
+Conversation124
+RESPONSE: Bonjour ! Avez-vous besoin d'aide dans votre recherche ?
+USER_ASK: bONJOUR JE cherche des cours de francais à sevres
+RESPONSE: Bonjour, un instant s'il vous plaît
+RESPONSE: Quel type de cours recherchez-vous ?
+USER_ASK: cours de francais pour personnes d'origine afghane
+RESPONSE: Alphabétisation, FLE (français langue étrangère)
+RESPONSE: https://soliguide.fr/fiche/3756
+USER_ASK: oui c'est ca
+RESPONSE: Vous avez l'ASTI qui donne des cours à Sèvres. Je vous ai partagé le lien de leur fiche. Vous pouvez cliquer dessus pour avoir toutes les informations
+USER_ASK: merci
+RESPONSE: Je vous en prie
+USER_ASK: je viens de les appeler , il n'accueille pas le public a cause du covid !!
+RESPONSE: Très bien merci pour ce retour, l'information va être mise à jour. Souhaitez-vous que je regarde pour une autre structure ?
+RESPONSE: Est-ce que les personnes peuvent se déplacer ? Nous avons également une liste des structures proposant des cours de français. Il suffit de cliquer à chaque fois sur les liens pour avoir les informations.
+RESPONSE: Sur le lien que je vous ai partagé, contacter les structures proches de Sèvres comme celles de Boulogne-Billancourt
+USER_ASK: Merci pour l'annuaire top !!!
+RESPONSE: Je vous en prie
+RESPONSE: Si vous souhaitez avoir plus d'informations sur chaque structure, il vous suffit de cliquer sur le lien juste après "services"
+
+Conversation125
+RESPONSE: Bonjour ! Avez-vous besoin d'information sur Merci pour l'invit' ?
+USER_ASK: bonjour, je lis pour l'instant merci !
+RESPONSE: Bonjour
+RESPONSE: D'accord, si besoin nous restons disponibles ! :)
+USER_ASK: Quel est votre rayonnement géographique ?
+RESPONSE: Nous sommes sur toute l'Ile de France sauf le 91 et le 77 (qui arrive très prochainement
+RESPONSE: Pardon cela a été envoyé trop vite
+RESPONSE: Je disais nous sommes sur toute l'Ile de France sauf le 77 (qui arrive très prochainement), la Gironde, la Loire Atlantique, les Alpes Maritimes et Strasbourg !
+USER_ASK: Belle initiative, j'aimerais relayer, et peut être un jour être personnellement hébergeuse, pour l'instant en tout cas mon habitation ne le permet pas !
+RESPONSE: Merci, n'hésitez pas à le relayer ! C'est super gentil de votre part. Dès que vous pouvez, n'hésitez pas à revenir vers nous :)
+USER_ASK: bonne journée
+USER_ASK: au revoir
+
+Conversation126
+RESPONSE: Vous voyez une information qui n'est plus à jour ou incomplète ? Dites le nous, nous la modifions :)
+RESPONSE: Bonjour ! Avez-vous besoin d'aide dans votre recherche ?
+USER_ASK: bonjour
+RESPONSE: Bonjour
+USER_ASK: je n'arrive as à supprimer un service propose (je viens de creer mon compte)
+RESPONSE: Bonjour Alain, vous n'arrivez pas à supprimer quel service ?
+USER_ASK: accompagnement à l'emploi comment faire ?
+RESPONSE: Vous cliquer sur le service que vous souhaitez supprimer. Et vous descendez juste un peu
+RESPONSE: après fréquentation, vous avez un espace libre puis un message en rouge "supprimer le service"
+USER_ASK: merci j'ai trouvé !
+RESPONSE: Je vous en prie
+
+Conversation127
+RESPONSE: Bonjour ! Avez-vous besoin d'aide dans votre recherche ?
+USER_ASK: bonjour, je cherche le format A4 des lieux ressources à Bordeaux
+RESPONSE: Bonjour
+RESPONSE: Je préviens mes collègues de Bordeaux de suite !
+USER_ASK: merci
+RESPONSE: Bonjour, voici le lien pour la liste sur les accueils inconditionnel : https://www.solinum.org/wp-content/uploads/2021/02/Accueil-Inconditionnel_2602.pdf
+RESPONSE: Et via ce lien, les accueils exclusif femmes : https://www.solinum.org/wp-content/uploads/2021/02/Export-accueil-exclusif-femmes_2602.pdf
+RESPONSE: À titre indicatif, pouvez-vous me dire pour quelle structure vous travaillez ? :)
+USER_ASK: super
+USER_ASK: cada de bègles, ftda
+USER_ASK: france terre d'asile
+RESPONSE: Super merci pour l'information ! Si vous distribuez ces listes pouvez-vous remplir ce petit questionnaire : https://airtable.com/shrOnZvOmBq1Ud38W ? Ça nous aidera beaucoup pour nous améliorer :)
+
+Conversation128
+USER_ASK: Bonjour, oui, j'ai besoin d'aide pour ma recherche
+RESPONSE: Bonjour
+RESPONSE: Dites moi en quoi puis je vous aider ?
+USER_ASK: Je travaille au sein d'un espace jeunes à Suresnes. J'accueille des jeunes de 15 à 25 ans.
+USER_ASK: Actuellement, on accueille un jeune de 22 ans dans nos locaux. Il s'est disputé avec sa maman et elle l'a mis à la porte
+USER_ASK: Cette nuit, il a dormi dans la rue, nous avons tenté d'appeler le 115 mais toutes les lignes sont occupées
+USER_ASK: Nous souhaiterions savoir s'il est possible pour lui de trouver un logement d'urgence rapidement
+RESPONSE: Bonjour, avez vous contacter le SST de Suresnes ?
+RESPONSE: Et la Croix-Rouge ?
+USER_ASK: Bonjour, non, je n'ai pas encore essayé, je vais tenter de les appeler
+RESPONSE: Je vous donne leurs contacts, un instant s'il vous plaît. Je vais aussi regarder si d'autrs acteurs peuvent intervenir
+RESPONSE: https://soliguide.fr/fiche/edas-de-puteaux-7173
+USER_ASK: merci
+RESPONSE: https://soliguide.fr/fiche/6576
+RESPONSE: Est-ce que le jeune travaille ?
+USER_ASK: Merci, je vais appeler tous ces contacts.
+USER_ASK: Non, il est sans emploi. Il attend sa carte de séjour de la part de la préfecture
+USER_ASK: car il l'a perdu
+RESPONSE: Essayer aussi d'appeler le 115 dans les heures creuses vers 14h
+USER_ASK: d'accord, merci. Je vais essayer tous ces contacts et tentez de revenir vers vous si jamais on ne trouve pas de solution
+RESPONSE: Oui bien sût. Je continue à regarder de mon côté s'il y a d'autres acteurs qui peuvent intervenir.
+RESPONSE: Est-ce que le jeune est inscrit à la mission locale ? Les CIP peuvent aussi débloquer certaines aides pour lui
+USER_ASK: Oui, il est inscrit à la mission locale
+USER_ASK: Je n'ai pas réussi à contacter la croix rouge car leur menu qui doit nous rediriger ne le fait pas
+USER_ASK: le SSP nous a dit de contacter le 115
+USER_ASK: je vais ré-essayer le 115 à 14h
+RESPONSE: D'accord, il y a aussi les club relais qui accompagnent les jeunes dans leurs difficultés
+RESPONSE: Vous avez contacter la mission locale du jeune pour être reçu d'urgence ?
+USER_ASK: La mission locale est fermée aujourd'hui
+USER_ASK: elle est dans nos locaux
+RESPONSE: Le SST ne peut pas fournir des nuits d'hotel ?
+USER_ASK: Ils m'ont dit d'appeler le 115 car ils ne faisaient pas dans le logement
+RESPONSE: Vous avez aussi l'association du site de la défense : https://www.associationdusitedeladefense.fr/
+RESPONSE: c'est un club de prévention
+RESPONSE: les coordonnées des éducateurs et autres contacts sur cette page : https://www.associationdusitedeladefense.fr/
+RESPONSE: le CCAS de Suresnes n'est pas forcément le plus compétent en vue de l'âge du jeunes mais vous pouvez peut etre obtenir des informations : https://soliguide.fr/fiche/ccas-de-suresnes-3401
+RESPONSE: Et enfin le PAEJ : https://soliguide.fr/fiche/11489
+USER_ASK: Merci beaucoup, je vais continuer d'appeler les numéros
+RESPONSE: Je vous en prie
+
+Conversation129
+USER_ASK: bonjour
+RESPONSE: Bonsoir !
+
+Malheureusement nous ne pouvons pas vous répondre pour le moment mais nous le ferons dès que possible. Vous pouvez laisser votre mail, écrire votre question, et nous reviendrons vers vous aussi vite que possible. En cas d'urgence, vous pouvez appeler le 115. 
+
+A bientôt :)
+USER_ASK: je ne parviens pas à télécharger l’appli :(
+RESPONSE: Bonsoir !
+
+Malheureusement nous ne pouvons pas vous répondre pour le moment mais nous le ferons dès que possible. Vous pouvez laisser votre mail, écrire votre question, et nous reviendrons vers vous aussi vite que possible. En cas d'urgence, vous pouvez appeler le 115. 
+
+A bientôt :)
+RESPONSE: Bonsoir,
+RESPONSE: Malheureusement, notre application rencontre un bug technique et ne fonctionne pas provisoirement sur Iphone
+RESPONSE: Est ce que je peux vous aider dans votre recherche ?
+
+Conversation130
+USER_ASK: je recherche des douches
+RESPONSE: Bonsoir !
+
+Malheureusement nous ne pouvons pas vous répondre pour le moment mais nous le ferons dès que possible. Vous pouvez laisser votre mail, écrire votre question, et nous reviendrons vers vous aussi vite que possible. En cas d'urgence, vous pouvez appeler le 115. 
+
+A bientôt :)
+RESPONSE: Bonjour
+RESPONSE: Pouvez vous me dire où êtes vous situés pour vous indiquer des douches à proximité ? 
+
+Conversation131
+USER_ASK: Bonjour
+RESPONSE: Bonjour
+RESPONSE: Est ce que je peux vous aider ?
+USER_ASK: Oui
+USER_ASK: Si possible d'avoir un rendez-vous
+RESPONSE: Pourriez vous me dire ce que vous cherchez ?
+USER_ASK: Un rendez-vous chez un potologue
+USER_ASK: Bienyelha@live.fr
+RESPONSE: Très bien, vous recherchez un podologue dans quelle ville ?
+USER_ASK: Il de France
+RESPONSE: D'accord, et dans quelle ville ou département êtes vous situé précisément. Je pourrais trouver des podologues proche de vous.
+USER_ASK: Dans le 94
+RESPONSE: Un instant, je regarde
+USER_ASK: D'accord
+USER_ASK: .
+USER_ASK: Merci
+RESPONSE: J'ai trouvé des structures proposant des consultations de podogue. Je vous envoie les liens :
+RESPONSE: https://soliguide.fr/fiche/centre-municipal-de-sante-fresnes-6834
+USER_ASK: Merci
+RESPONSE: https://soliguide.fr/fiche/centre-de-protection-maternelle-et-infantile-pmi-de-fontenay-aux-roses-2572
+RESPONSE: https://soliguide.fr/fiche/centre-medical-et-dentaire-edison-paris-1713
+USER_ASK: +1
+RESPONSE: https://soliguide.fr/fiche/pass-corentin-celton-issy-les-moulineaux-2933
+RESPONSE: N'hésitez pas à revenir vers moi si besoin
+
+Conversation132
+RESPONSE: Bonjour ! Avez-vous besoin d'aide dans votre recherche ?
+USER_ASK: Bonjour, où trouver un endroit pour se doucher à Bordeaux ?
+RESPONSE: Bonjour,
+RESPONSE: Je fais la recherche
+USER_ASK: Bonjour nous sommes les étudiant qui créer les vidéos explicatives
+USER_ASK: Pouvez vous simplement répondre aux 2 questions que je vais poser d'ici quelque seconde ?
+RESPONSE: Oui d'accord
+USER_ASK: y a t'il un moyen pour ne pas afficher nos messages précédent ?
+RESPONSE: euh non... il faut rouvrir un autre chat pour cela et changer d'ID utilisateur
+USER_ASK: très bien je fais cela
+
+Conversation133
+RESPONSE: Bonjour ! Avez-vous besoin d'information sur Merci pour l'invit' ?
+USER_ASK: Cherchez-vous des hébergeurs sur Paris ?
+RESPONSE: Bonjour
+RESPONSE: Oui notre projet Merci pour l'invit recherche des hébergeurs pour des femmes sans-abri.
+RESPONSE: Vous souhaitez héberger une personne ?
+USER_ASK: Oui mais j'ai un petit appartement.. pas sur que cela soit possible
+USER_ASK: comment cela fonctionne ?
+RESPONSE: Mes collègues chargeaient du projet verront avec vous pour la taille de l'appartement.
+RESPONSE: Vous pouvez remplir ce formulaire : https://mercipourlinvit.fr/devenir-hebergeur/
+RESPONSE: Puis, mes collègues vont vous contacter par téléphone pour voir les modalités d'accueil, vous présenter plus en détails le projet
+USER_ASK: super merci !
+RESPONSE: De rien ! si besoin dites moi, je reste disponible :)
+
+Conversation134
+RESPONSE: Vous voyez une information qui n'est plus à jour ou incomplète ? Dites le nous, nous la modifions :)
+USER_ASK: Bonjour, pour la fiche: "Espace Marcel Olivier, 9 rue bergère". Il faudrait modifier le texte et mettre le suivant:
+RESPONSE: Bonjour
+RESPONSE: Dites moi et je modifie cela !
+USER_ASK: Lieu d’accueil inconditionel, d’orientation et d’entraide adapté aux personnes en situation de précarité qui consomment de l’alcool. L’approche appliquée est la réduction des risques et des dommages liés à la consommation d’alcool. Les personnes peuvent y consommer dans un cadre bienveillant et sécurisé.
+L'équipe est composée:
+- de bénévoles 
+- un responsable
+- une psychologue: lundis et les jeudis
+- une art-thérapeute: lundis, mardis et mercredis.
+Un accueil café est proposé tous les matins. En parallèle se tiennent:
+- un groupe d'expression: lundi 11h-12h
+- un atelier d'expression et de création: Mercredi 11h-12h
+USER_ASK: Merci, j'espère que ce n'est pas trop long. Je peux synthétiser encore.
+RESPONSE: Non vous inquiétez pas c'est parfait
+RESPONSE: Un grand merci, je mets à jour votre texte de suite.
+USER_ASK: Merci, bonne journée !
+RESPONSE: Souhaitez vous que je vous donne accès à votre fiche via un compte professionnel ?
+En plus de mettre à jour vos informations, ou de désigner des personnes de votre service qui pourront également actualiser votre fiche, vous pourrez accéder à terme à des informations réservées aux professionnels de l'action sociale.
+RESPONSE: Merci à vous ! excellente journée !
+USER_ASK: Oui je veux bien
+USER_ASK: j'ai perdu mes identifiants, le mot de passe du moins.
+RESPONSE: Je m'en occupe cet après-midi et je reviens vers vous par mail :)
+USER_ASK: Super, merci : l.cloarec@captifs.fr
+
+Conversation135
+RESPONSE: Bonjour ! Avez-vous besoin d'information sur Merci pour l'invit' ?
+USER_ASK: Bonjour, je recherche un dispositif similaire permettant d'héberger un homme sans-abri. Les hébergement d'urgence sont saturés, les délais impossibles. J'essaye donc de trouver d'autres voies...si vous en connaissez.
+RESPONSE: Bonjour, où êtes-vous situé ? Je peux regarder si des initiatives existes
+USER_ASK: Bonjour, à Lyon 2ème. J'ai vu le site le 115 du particulier mais il n'a plus l'air actif quand on regarde la date des derniers articles publiés. La personne est suivie par une assistante sociale, autonome dans ses démarches, en recherche d'emploi, etc. Mais dort dehors.
+RESPONSE: D'accord, je vais regarder. Pour le 115 du particulier, je crois qu'il y a un groupe Facebook.
+RESPONSE: J'ai trouvé ce site : https://terredancrages.wordpress.com/ce-que-nous-faisons/hebergement/
+USER_ASK: merci je vais regarder
+
+Conversation136
+RESPONSE: Bonjour ! Avez-vous besoin d'aide dans votre recherche ?
+USER_ASK: Bonjour
+RESPONSE: Bonjour
+RESPONSE: Bonjour
+RESPONSE: Est ce que je peux vous aider ?
+USER_ASK: Une banque alimentaire dans le 4ème
+RESPONSE: Un instant je regarde
+RESPONSE: Vous cherchez un colis alimentaire ou vous êtes un professionnel et vous cherchez à vous affilier à une banque alimentaire ?
+
+Conversation137
+RESPONSE: Vous voyez une information qui n'est plus à jour ou incomplète ? Dites le nous, nous la modifions :)
+RESPONSE: Bonjour ! Avez-vous besoin d'aide dans votre recherche ?
+USER_ASK: bonjour c'est jimmy de solinum en sensi juste pour une démo
+RESPONSE: Bonjour Jimmy !
+USER_ASK: je souhiterais mettre une info à jour est-ce possible ?
+RESPONSE: Oui tout à fait, je vous écoute
+USER_ASK: Merci Alice pour la réactivité ;), on  a mis à jour l'info juste avant c'était pour illustrer. Au top !
+RESPONSE: ;)
+
+Conversation138
+USER_ASK: acogida de comida y ropas
+RESPONSE: Hola, ¿dónde te encuentras?
+USER_ASK: en creteil
+RESPONSE: Bien, ¿comida para preparar o comida caliente?
+RESPONSE: Tienes el rescate popular que está abierto los miércoles y jueves por la tarde. Toda la información está en la tarjeta: https://soliguide.fr/fiche/secours-populaire-comite-de-creteil-7022
+RESPONSE: Por hoy, tienes los restaurantes del corazón con los que puedes contactar. Las cestas de comida normalmente están en el registro, lo explicarán todo: https://soliguide.fr/fiche/centre-de-distribution-de-creteil-4511
+USER_ASK: comida para preparar
+RESPONSE: Muy bien, te invito a hacer clic en los enlaces que te he dado. Tienes toda la información al respecto. Direcciones, horarios de apertura y números de teléfono.
+
+Conversation139
+RESPONSE: Bonjour ! Avez-vous besoin d'aide dans votre recherche ?
+USER_ASK: Je recherche des structures distribuant gratuitement des lunettes aux personnes dans la rue. Merci
+RESPONSE: Bonjour, je vais effectuer une recherche
+USER_ASK: Merci
+RESPONSE: Vous pouvez vous renseigner auprès d'Emmaüs Solidarité ou les services sociaux pour des ouvertures de droits
+USER_ASK: OK, je vous remercie
+RESPONSE: Si la personne n'a pas de droits, elle peut consulter dans une pass un ophtalmo pour en savoir davantage sur sa vision : https://soliguide.fr/fiche/hopital-cochin-pass-paris-1714
+
+Conversation140
+RESPONSE: Hello ! Do you need help in your research ?
+USER_ASK: HI, no many thanks I am volunteer by MSF
+RESPONSE: Bonsoir !
+
+Malheureusement nous ne pouvons pas vous répondre pour le moment mais nous le ferons dès que possible. Vous pouvez laisser votre mail, écrire votre question, et nous reviendrons vers vous aussi vite que possible. En cas d'urgence, vous pouvez appeler le 115. 
+
+A bientôt :)
+
+Conversation141
+RESPONSE: Bonjour ! Avez-vous besoin d'aide dans votre recherche ?
+USER_ASK: non merci
+USER_ASK: je suis bénévole au SPF de Pantin et je regarde votre répertoire merci :$
+RESPONSE: Bonjour
+RESPONSE: Parfait, si besoin nous sommes disponibles :)
+USER_ASK: merci
+RESPONSE: Vous voyez une information qui n'est plus à jour ou incomplète ? Dites le nous, nous la modifions :)
+USER_ASK: ok
+USER_ASK: est ce que vous avez répertorié les épiceries solidaires dans le 93?
+RESPONSE: Bonjour, oui ! Mais comme un bon nombre sont sur orientation elles n'apparaissent pas forcément dans la recherche. Je peux vous fournir une liste si vous le souhaitez ?
+USER_ASK: Oui je veux bien merci
+
+Le lun. 15 mars 2021 à 18:39, Théo - Solinum <theo@soliguide.on.crisp.email>
+a écrit :
+
+Conversation142
+RESPONSE: Avez-vous trouvé ce que vous cherchiez ?
+USER_ASK: non
+USER_ASK: bonjour ;je suis etudiante et rencontre trop de difficultes en ce moment ,j'aimerais bien beneficier d'une assistance sociale ,meci d'avance
+RESPONSE: Bonjour, vous êtes située dans quelle ville ?
+
+Conversation143
+RESPONSE: Vous voyez une information qui n'est plus à jour ou incomplète ? Dites le nous, nous la modifions :)
+USER_ASK: Bonjour,
+RESPONSE: Bonjour,
+RESPONSE: Comment puis-je vous aider ?
+USER_ASK: en modifiant les horaires: 9h à12h30 et 13h30 à 17h.
+USER_ASK: les rendez vous se prennent le matin de 9h à 13h30.merci
+USER_ASK: l'accueil téléphonique pour les rendez vous avec les écrivains publics c'est le matin
+USER_ASK: de 9h à 12h30 pardon
+RESPONSE: D'accord merci, je modifie les informations de votre fiche ! Si vous le souhaitez, nous proposons des comptes professionnels aux personnes responsables des structures afin qu'elles puissent modifier elles-mêmes les informations. Seriez-vous intéressé ?
+USER_ASK: oui pourquoi pas nous allons bientôt créer un site vitrine
+RESPONSE: D'accord, je vous mets en relation avec la chargée de développement de votre département
+RESPONSE: Etes-vous toujours fermé le venderdi après-midi ?
+USER_ASK: oui aux publics
+RESPONSE: D'accord, j'ai modifié les informations. Celle-ci sont les bonnes ? https://soliguide.fr/fiche/regie-de-quartier-champigny-sur-marne-7497
+USER_ASK: juste je me suis trompé le matin de 9h à 12h30.
+RESPONSE: D'accord, j'ai remis jusque 12h30 :) Est-ce que les horaires de l'écrivain public sont uniquement le matin également ? https://soliguide.fr/fiche/regie-de-quartier-champigny-sur-marne-7497
+USER_ASK: comme ca c'est parfait
+USER_ASK: merci beaucoup
+RESPONSE: Je vous en prie, avec plaisir ! En ce qui concerne votre compte professionnel, la personne en charge du développement sur le 94 vous contactera par mail, est-ce bien cette adresse ? regie.champigny@gmail.com
+USER_ASK: c'est bien ca ! merci
+RESPONSE: Parfait ! Merci :) Avez-vous besoin d'autres informations ?
+USER_ASK: non c'est parfait
+USER_ASK: merci
+RESPONSE: Super ! Bonne journée à vous
+
+Conversation144
+RESPONSE: Bonjour ! Avez-vous besoin d'aide dans votre recherche ?
+USER_ASK: Bonjour, Proposez-vous des réunions de présentation du Soliguide ?
+RESPONSE: Bonjour
+RESPONSE: Oui oui bien sur
+RESPONSE: sur quel territoire ?
+USER_ASK: Sur le Val d'Oise. Je n'ai pas pu participer aux deux dates de début mars.
+USER_ASK: Sur Cergy plus précisément.
+RESPONSE: Un instant s'il vous plait, je préviens ma collègue en charge du développement dans le Val d'Oise.
+USER_ASK: ok
+RESPONSE: Je viens de la prévenir, pourriez vous envoyer un mail à alice.deronne@solinum.org
+USER_ASK: Oui bien sûr.
+RESPONSE: Parfait, je vous souhaite une très belle fin de journée
+USER_ASK: E-mail envoyé à l'instant ! A vous aussi !
+
+Conversation145
+RESPONSE: Bonjour ! Avez-vous besoin d'aide dans votre recherche ?
+USER_ASK: bonjour
+RESPONSE: Bonjour
+USER_ASK: je recherche le service social
+RESPONSE: Pouvez-vous m'indiquer où êtes vous situé ?
+USER_ASK: 77176 seine et marne
+RESPONSE: D'accord un instant s'il vous plaît
+RESPONSE: Pouvez vous me préciser la ville ? Cela me permettra de vous orienter vers le service départemental le plus proche
+USER_ASK: savigny le temple
+RESPONSE: Vous avez sur cette page les coordonnées pour joindre la maison des solidarités de Coulommiers : https://www.seine-et-marne.fr/fr/annuaire-lieu/mds-coulommiers
+USER_ASK: merci
+RESPONSE: Lors de votre appel téléphonique, expliquer brièvement votre situation et dites que vous souhaitez avoir un rendez-vous avec un travailleur social (Les assistants sociaux sont des travailleurs sociaux)
+RESPONSE: Accès aux droits, RSA, insertion, accompagnement social : 01 64 75 58 20
+Protection Maternelle et Infantile / Petite enfance : 01 64 75 58 16
+APA : 01 64 65 35 68
+26-28 rue du Palais de Justice - 77120 Coulommiers
+Du lundi au vendredi de 8h30 à 12h30 et de 13h30 à 17h (sauf mardi matin)
+RESPONSE: En fonction de votre demande, il y a plusieurs numéros de téléphone
+USER_ASK: merci
+RESPONSE: Je vous en prie. Excellente journée à vous.
+USER_ASK: a vous aussi
+
+Conversation146
+RESPONSE: Vous voyez une information qui n'est plus à jour ou incomplète ? Dites le nous, nous la modifions :)
+RESPONSE: Bonjour ! Avez-vous besoin d'aide dans votre recherche ?
+USER_ASK: Bonjour,
+RESPONSE: Bonjour
+RESPONSE: Est ce que je peux vous aider ?
+
+Conversation147
+RESPONSE: Bonjour ! Avez-vous besoin d'aide dans votre recherche ?
+USER_ASK: bONJJOUR
+RESPONSE: Bonjour
+RESPONSE: Je peux vous aider ?
+USER_ASK: je voudrais pouvoir déposer mes documents et mes papiers dans un endroit sécurisé ou à défaut dans un coffre fort numérique
+RESPONSE: d'accord et vous êtes situé dans quelle ville ? Quel arrondissement si vous êtes sur Paris ?
+USER_ASK: paris 18
+RESPONSE: Vous pouvez rechercher "coffre-fort numérique" dans la barre de recherche à gauche sur la page d'accueil de soliguide et votre ville à droite
+RESPONSE: je recherche
+RESPONSE: Dans le 18eme, l'espace solidarité ramey du Secours Populaire est équipé d'un coffre fort numérique : https://soliguide.fr/fiche/espace-solidarite-ramey-paris-43
+RESPONSE: Vous avez tous les lieux disposant d'un coffre fort numérique sur Paris ici : https://soliguide.fr/search/paris/numerisation
+USER_ASK: merci
+RESPONSE: Vous pouvez également faire la même recherche pour une bagagerie si vous le souhaitez (je ne connais pas de structure proposant des casiers spécifiques pour les papiers)
+USER_ASK: oui mais la bagagerie ne garantit pas la sécurité des documents Merci
+RESPONSE: Je comprend bien. De rien.
+USER_ASK: Merci beaucoup
+
+Le sam. 13 mars 2021 à 15:37, Soliguide
+<transcripts@soliguide.on.crisp.email> a écrit :
+
+Conversation148
+RESPONSE: Vous voyez une information qui n'est plus à jour ou incomplète ? Dites le nous, nous la modifions :)
+RESPONSE: Bonjour ! Avez-vous besoin d'aide dans votre recherche ?
+USER_ASK: Bonjour,
+RESPONSE: Bonjour,
+RESPONSE: Est ce que je peux vous aider ?
+USER_ASK: Oui, il y aurait des modifications d'horaires à faire sur notre fiche Permanence de l'Arc-en-Ciel à Strasbourg.
+RESPONSE: D'accord, pouvez vous m'indiquer les modifications ?
+USER_ASK: Pour l'accompagnement social c'est le mardi, mercredi et jeudi de 13h30 à 16h30. Pour la Domiciliation, c'est le lundi et le vendredi de 13h30 à 16h30. Pour la restauration, le petit déjeuner est à emporter et il faudrait rajouter le samedi et le dimanche jusqu'à Pâques.
+RESPONSE: D'accord, je modifie ces informations tout de suite
+RESPONSE: Sachez qu'il est également possible de modifier directement vos informations sur votre compte professionnel
+USER_ASK: Oui, j'ai essayé mais je n'ai pas réussi à accéder aux modifications. Je vous remercie et vous souhaite une bonne journée.
+RESPONSE: D'accord,
+RESPONSE: Si vous le souhaitez, je peux vous envoyer un lien pour vous inscrire à un wébinaire d'1h qui pourra vous aider à utiliser votre compte professionnel.
+USER_ASK: Je vais plutôt relire le tutoriel d'utilisation. Je vous remercie.
+RESPONSE: Je vous en prie,
+RESPONSE: Je vous souhaite une belle journée
+
+Conversation149
+RESPONSE: Bonjour ! Avez-vous besoin d'aide dans votre recherche ?
+USER_ASK: Bonjour, je suis la vice-présidente de l'Entraide de l'Eglise protestante unie de Versailles. Est-il possible que je fasse moi-même les nombreuses modifications que je dois apporter concernant notre association ? Si oui, comment fais-je pour m'identifier en tant que responsable ? (Il y a moi et ma présidente qui pouvons le faire.) Aude GILBERT
+RESPONSE: Bonjour, oui vous pouvez modifier la fiche e vous connecter à http://pro.soliguide.fr/
+RESPONSE: Votre directrice à reçu le mail d'invitation, elle doit créer le compte et confirmer le mail
+RESPONSE: ensuite, elle pourra vous inviter
+RESPONSE: dans le cas, où vous souhaitez créer le compte à la place de votre directrice, je peux vous envoyer le lien d'invitation. Après la création du compte, vous pourrez envoyer un lien d'invitation à votre directrice.
+USER_ASK: Bonjour Blanche, je veux bien que vous m'envoyiez le lien car en effet, ne l'ayant pas,  je n'arrive pas à créer le compte. Aude Gilbert
+RESPONSE: Bonjour Aude, je vous l'envoie tout de suite par mail
+USER_ASK: merci !
+RESPONSE: Vous voyez une information qui n'est plus à jour ou incomplète ? Dites le nous, nous la modifions :)
+USER_ASK: Blanche, je n'arrive pas à joindre la fiche d'orientation...je vous l'envoie par mail ?
+RESPONSE: Oui :)
+USER_ASK: c'est fait, merci ! Elle peut figurer sur "orientation" et "rendez-vous"
+RESPONSE: C'est parce que ce n'était pas le bon format et il y a un bug que j'ai remonté aux développeurs.
+RESPONSE: Je vous enverrai un mail dès que la fiche a été ajouté
+USER_ASK: merci ! J'en profite pour indiquer une erreur de frappe que je n'arrive pas à modifier dans les "Services proposés" (dans le (3) : EntraideEntraide... Merci Blanche
+RESPONSE: D'accord, je vais regarder
+RESPONSE: Je ne vois pas l'erreur
+RESPONSE: c'est bon :)
+RESPONSE: j'ai retiré le mot en trop
+USER_ASK: Bonjour, nous sommes dimanche et peut-être est-ce la raison pour laquelle je n'arrive pas à "uploader" la fiche d'orientation mise à jour que je veux insérer. Je vais l'envoyer à Blanche pour qu'elle le fasse, est-ce d'accord ? Merci ! Aude GILBERT
+RESPONSE: Bonjour Aude, suite à notre conversation téléphonique, j'ai bien enregistré la fiche de prescription pour le futur et vous remercie. Vous pouvez toujours me contacter via l'adresse yvelines@solinum.org, mais aussi via charlotte@solinum.org si vous avez une question. Très bonne journée à vous et à bientôt, Charlotte
+
+Conversation150
+RESPONSE: Bonjour ! Avez-vous besoin d'aide dans votre recherche ?
+USER_ASK: bagage
+RESPONSE: Bonjour
+RESPONSE: Vous recherchez une bagagerie n
+RESPONSE: ?
+RESPONSE: Où ça ? 
+
+Conversation151
+USER_ASK: Hola ! Qué tal ? Es Luce, debemos encontrar bugs en Soliguide, es solo un test
+RESPONSE: Ha muy bien Luce
+RESPONSE: Tengo una pista para ti
+USER_ASK: Que bien ! Dimelo :)
+RESPONSE: Debes ir en los servicios de un lugar, y essaie de cliquer sur "en savoir plus"
+USER_ASK: Vale, vamos a ver muchas gracias Theo !
+
+Conversation152
+RESPONSE: Hola
+USER_ASK: Hola Théo
+RESPONSE: Je peux vous aider ?
+USER_ASK: On voulait juste te partager un jolie paysage
+RESPONSE: C'est gentil
+RESPONSE: Merci :)
+USER_ASK: Con gusto
+RESPONSE: De nada
+
+Conversation153
+RESPONSE: Bonjour ! Avez-vous besoin d'aide dans votre recherche ?
+USER_ASK: je cherche des liens avec la création d'entreprise mais dans un esprit coopératif
+RESPONSE: Bonjour à vous
+USER_ASK: bonjour,
+RESPONSE: Pouvez vous spécifier votre demande. Vous souhaitez des dispositifs de soutien à la création d'entreprise
+RESPONSE: ?
+USER_ASK: J'ai un demandeur qui veut créer son entreprise mais pas seul, en fait.
+RESPONSE: D'accord. Il est situé ou ?
+RESPONSE: JE vais essayer de chercher des dispositifs dans cette idée !
+USER_ASK: Sur Paris et dans l'informatique
+RESPONSE: J'ai trouvé une application Affeeniteam qui permet de trouver des partenaires intéressés par le projet proposé
+USER_ASK: Super ! vous êtes formidable !
+RESPONSE: De rien ! si besoin, n'hésitez pas à revenir vers moi
+RESPONSE: https://www.dynamique-mag.com/article/plateformes-rencontres-trouver-associe.10513
+RESPONSE: voici le lien si besoin pour retrouver toutes les informations sur Affeeniteam
+USER_ASK: Je reviens vers vous, je suis à la recherche aussi de groupes de retraités qui vivent leur retraite de manière active. Avez vous des pistes?
+RESPONSE: Vous souhaitez un groupe de parole ? un groupe qui les rassemblent sur les réseaux sociaux ? Ou autre ?
+USER_ASK: Plutôt sur les réseaux sociaux
+RESPONSE: Pour être honnête je ne connais pas vraiment ce genre de groupes. Mais vous pouvez peut être regarder directement sur Facebook les pages qui rassemblent les retraités actifs
+RESPONSE: Après vous avez Paris en compagnie
+RESPONSE: Une application qui met en lien les générations, peut être qu'ils seront en capacité de vous aider sur ce sujet
+USER_ASK: Entendu !
+USER_ASK: Merci en tous les cas pour votre aide !
+RESPONSE: https://www.facebook.com/retraitesactifs1/
+USER_ASK: Je vous laisse! Au plaisir d'une prochaine fois.
+RESPONSE: de rien, le plaisir sera partagé ! A bientôt !Bonne journée et bon weekend (en avance) :)
+USER_ASK: Merci, vous aussi il devrait faire un peu de soleil, dimanche matin :)
+
+Conversation154
+RESPONSE: Bonjour ! Avez-vous besoin d'aide dans votre recherche ?
+USER_ASK: Bonjour de l'atelier graphite en formation. Nous présentons votre site :)
+RESPONSE: Bonjour
+RESPONSE: super, n'hésitez pas !
+
+Conversation155
+RESPONSE: Bonjour ! Avez-vous besoin d'aide dans votre recherche ?
+USER_ASK: je recherche une bagagerie sur Paris 11-ème ou 13-ème
+RESPONSE: Bonjour
+RESPONSE: Je regarde cela de suite et je reviens très rapidement vers vous
+RESPONSE: Pour le 13ème arrondissement, vous pouvez retrouver cette structure : https://soliguide.fr/fiche/esi-arche-avenirs-paris-25
+RESPONSE: Concernant le 11ème, vous avez une structure saturée et sur orientation d'un de leurs organismes partenaires
+RESPONSE: https://soliguide.fr/fiche/bagagerie-onze-mille-potes-paris-210
+RESPONSE: si vous souhaitez plus d'adresses sur Paris, je vous invite à consulter cette page : https://soliguide.fr/search/paris/bagagerie
+
+Conversation156
+RESPONSE: Vous voyez une information qui n'est plus à jour ou incomplète ? Dites le nous, nous la modifions :)
+USER_ASK: Dans la plateforme du XVème corps , il y a trois services
+RESPONSE: Bonjour
+USER_ASK: -
+USER_ASK: Accueil de jour
+USER_ASK: Pôle accompagnement Social et la domiciliation. Les horaires ne sont pas les mëmes ni les actions.
+RESPONSE: Madame FERRANTI bonjour, j'en prend note et corrige les informations. Quelles sont les horaires pour l'accueil de jour s'il vous plaît ? Servane
+USER_ASK: 9h00 à 16h00 pour le pubic
+USER_ASK: du lundi au vendredi sauf les week end et jours fériés
+USER_ASK: le 0493628091 est le numéro de téléphone de l'accueil de jour
+RESPONSE: Merci beaucoup ! Je reviendrai vers vous par mail afin de vous faire valider la fiche avec les informations. JE suis ravie que vous ayez pu essayer notre outil de tchat en ligne.
+USER_ASK: Réponse de première nécessité: douches repas ,lavage de linge, bagagerie présence infirmière, psychologue  et assistante sociale avec une écoute  et orientation .
+USER_ASK: J'éssaie de me mettre au gôut du jour :)
+RESPONSE: Génial, merci beaucoup !
+RESPONSE: Vous avez bien raison !
+
+Conversation157
+RESPONSE: Bonjour ! Avez-vous besoin d'aide dans votre recherche ?
+USER_ASK: non merci
+RESPONSE: D'accord. Si besoin, nous restons disponibles :)
+
+Conversation158
+RESPONSE: Bonjour ! Avez-vous besoin d'aide dans votre recherche ?
+USER_ASK: vie libre
+RESPONSE: bionjour
+RESPONSE: je peux vous aider ?
+
+Conversation159
+RESPONSE: Bonjour ! Avez-vous besoin d'aide dans votre recherche ?
+USER_ASK: Bonjour j'ai rencontré un jeune migrant de 21 ans à la rue, que peut-on faire pour qu'il ne dorme pas dehors?
+RESPONSE: Bonjour
+RESPONSE: Est-ce qu'il a déjà appelé le 115 ?
+RESPONSE: Le 115 est un numéro d'urgence, gratuit et disponible 24h/24, 7j/7. Le 115 gère toutes les places d'hébergement d'urgence en France. Il est souvent saturé, mais il faut l'appeler tous les jours.
+RESPONSE: En fonction de sa situation administrative, d'autres démarches peuvent être entreprises
+RESPONSE: est-ce que vous en savez plus sur lui ?
+USER_ASK: non très peu, j'ai pris son téléphone, je sais simplement qu'il a l'air d'avoir essayé pleins de choses mais qu'il ne fait pas parti des publics prioritaire pour l'hébergement
+RESPONSE: D'accord, c'est possible. Il faudrait en savoir un peu plus sur sa situation pour l'orienter au mieux. Il faut qu'il continue d'appeler le 115, ou en fonction de sa situation qu'il puisse voir un travailleur social. Vous savez où il est situé en général ?
+USER_ASK: il a rendez vous avec un travailleur social le mois prochain
+RESPONSE: ha c'est une bonne chose déjà
+USER_ASK: Je lui ai donné le lien de votre site, qui est super bravo!
+USER_ASK: il m'a dit que le 115 est tout le temps saturé
+RESPONSE: Oui malheureusement...mais il peut se tourner vers un travailleur social pour faire une demande auprès du 115 en passant par lui
+RESPONSE: Super tant mieux ! 
+
+Conversation160
+RESPONSE: Bonjour ! Avez-vous besoin d'aide dans votre recherche ?
+USER_ASK: Bonjour théo j'ai du me deconnecter de l'ordinateur que j'utilisais ainsi je n'ai pas vu votre réponse
+RESPONSE: Pas de soucis. Je vous disais qu'on viendra vous déposer des flyers et affiches tout bientôt
+USER_ASK: parfait merci beaucoup
+RESPONSE: Je vous demandais aussi s'il y avait des réunions sur la ville de Montreuil avec des centres sociaux ou si vous connaissiez des personnes de la mairie à qui l'on pourrait parler de Soliguide
+USER_ASK: Je vous conseil de contacter "Acakpovi Xavier" <xavier.acakpovi@montreuil.fr> qui coordonne les centre sociaux de la ville
+USER_ASK: auriez vous un mail direct sur lequel je peux vous envoyer d'autre contact utile sur la ville ?
+RESPONSE: Oui bien sûr, vous pouvez me contacter à theo@solinum.org
+RESPONSE: Génial, merci beaucoup
+USER_ASK: oki je vais réfléchir à d'autres contact et vous les enverrais pas mail
+
+Conversation161
+RESPONSE: Bonjour ! Avez-vous besoin d'aide dans votre recherche ?
+USER_ASK: Non merci
+RESPONSE: Si besoin, n'hésitez pas à nous solliciter :)
+RESPONSE: Vous voyez une information qui n'est plus à jour ou incomplète ? Dites le nous, nous la modifions :)
+USER_ASK: Bonjour serait il possible d'avoir des affiches et autre documents de communication sur Soliguide afin de les diffuser au sein de notre structure ?.
+RESPONSE: Bonjour
+RESPONSE: Oui bien sûr !
+RESPONSE: Vous êtes Bérénice Layet du Centre Social Lounès Matoub ?
+USER_ASK: oui bonjour c'est bien moi Bérénice
+RESPONSE: D'accord, est-ce qu'il y a un jour qui vous conviendrait le mieux pour vous laissez des affiches et flyers ?
+USER_ASK: sur nos horaires d'ouverture c'est parfait
+USER_ASK: Je ne serais pas forcement la mais il y a toujours quelqu'un à l'accueil
+RESPONSE: Ok ! On viendra bientôt alors. Est-ce que vous savez si sur la ville de Montreuil il y a des réunions avec les différents centres sociaux ou des personnes à la mairie que l'on pourriat contacter pour présenter Soliguide ?
+
+Conversation162
+RESPONSE: Bonjour ! Avez-vous besoin d'aide dans votre recherche ?
+USER_ASK: Bonjour, je travaille dans une association qui tient une épicerie solidaire à Ris Orangis. J'ai recherché une notre épicerie social dans la barre de recherche mais elle n'est pas mentionné. Est ce un bug du site ou elle n'est juste pas répertoriée?
+RESPONSE: Bonjour,
+Je vais faire la recherche de mon côté pour voir si c’est un bug ou non et je reviens vers vous. Pouvez-vous me donne le nom de votre épicerie ?
+USER_ASK: Bonjour,
+
+Je vous remercie pour votre réponse. Notre épicerie s’appelle l’Acacia. Elle est géré par l’association le secours fraternel.
+
+Jean Désiré Mbaye
+
+De : Jimmy - Soliguide
+Envoyé le :mercredi 10 mars 2021 13:41
+À : jeandesirembaye@gmail.com
+Objet :Bonjour ! Avez-vous besoin d'aide dans votre recherche ?
+
+Bonjour ! Avez-vous besoin d'aide dans votre recherche ?
+
+Bonjour,
+Je vais faire la recherche de mon côté pour voir si c’est un bug ou non et je reviens vers vous. Pouvez-vous me donne le nom de votre épicerie ?
+RESPONSE: Merci pour votre retour rapide.
+Alors, il ne s'agit pas d'un bug. Comme le Soliguide n'est pas encore officiellement arrivé sur le département de l'Essonne, nous n'avons pas encore de structures référencées et mises en ligne sur le Soliguide pour ce territoire.
+Néanmoins, le Soliguide devrait arrivé très prochainement sur le territoire.
+Je me renseigne auprès d'un collègue pour vous apporter plus d'information et je vous renvoie un message juste après.
+
+Conversation163
+RESPONSE: Avez-vous trouvé ce que vous cherchiez ?
+USER_ASK: oui
+RESPONSE: Bonjour
+RESPONSE: Dites moi en quoi puis je vous aider ?
+
+Conversation164
+RESPONSE: Bonjour ! Avez-vous besoin d'aide dans votre recherche ?
+USER_ASK: oui
+RESPONSE: Bonjour
+RESPONSE: Comment je peux vous aider ?
+USER_ASK: nous cherchons un hebergement pour femme isoléé sur paris
+USER_ASK: nous essayons d'orienter une femme isoléé qui est en situation d'insécurité
+RESPONSE: Un instant, je regarde
+RESPONSE: Voici des associations qui pourront l'aider:
+RESPONSE: https://www.colette.club/
+RESPONSE: Vous pouvez également vous rapprocher de Merci pour l'invit, un projet porté par Solinum : un dispositif d'hébergement citoyen pour des femmes sans-abris
+RESPONSE: https://www.solinum.org/activites/merci-pour-linvit/
+RESPONSE: https://mercipourlinvit.fr/
+RESPONSE: S'il s'agit d'un hébergement d'urgence, je vous invite à appeler le 115 qui pourra l'orienter vers des hébergements
+
+Conversation165
+RESPONSE: Bonjour ! Avez-vous besoin d'aide dans votre recherche ?
+USER_ASK: oui
+RESPONSE: Bonjour
+RESPONSE: Comment je peux vous aider ?
+USER_ASK: Est-ce une association ?
+USER_ASK: Ah excusez-moi, je pensais que c'était un chatbot
+USER_ASK: Bonjour du coup
+RESPONSE: pas de problèmes
+RESPONSE: vous cherchez à savoir si nous sommes une association ?
+
+Conversation166
+RESPONSE: Bonjour ! Avez-vous besoin d'aide dans votre recherche ?
+USER_ASK: non merci
+
+Conversation167
+RESPONSE: Avez-vous trouvé ce que vous cherchiez ?
+USER_ASK: bonjour j'ai besoin une assistante social
+USER_ASK: pour une problème de logement je veux remplir le formulaire dalo
+RESPONSE: Bonjour, je vais me renseigner. Pouvez-vous me dire où vous êtes située ?
+USER_ASK: voila pour un problème de logement une responsable a la mairie il me demande parle avec une assistante social pour me aides
+RESPONSE: D'accord. Dans quelle ville êtes-vous située ? Pour que je puisse adapter au mieux les recherches.
+USER_ASK: 78200 MANTES LA JOLIE
+RESPONSE: Merci, je regarde
+USER_ASK: J PAS COMPRIS
+RESPONSE: Je regarde si je trouve une structure avec une assistante sociale pour vous aider.
+USER_ASK: ok merci mais quand
+RESPONSE: Je suis en train de me renseigner, je vous dis dès que je trouve.
+USER_ASK: ok merci cest gentille
+USER_ASK: je ss la
+USER_ASK: j attend
+RESPONSE: Vous êtes bien domiciliée à Mantes-la-Jolie ?
+USER_ASK: oui
+USER_ASK: t vu mon adresse
+RESPONSE: Non je ne l'ai pas vue. Mais pour vous orienter vers certaines structures j'ai besoin de savoir si vous avez une adresse à Mantes-la-Jolie
+USER_ASK: oui je suis a 5 RUE DE LA CROIX FERREE
+USER_ASK: MANTES LA JOLIE
+RESPONSE: D'accord merci. 
+Vous pouvez vous rendre au SAS de Mantes-la-Jolie : 
+https://soliguide.fr/fiche/secteur-action-sociale-de-mantes-la-jolie-6645
+USER_ASK: JE L APPEL LE SERVICE
+USER_ASK: SUR CETTE NUUMERO
+RESPONSE: Oui vous pouvez. 
+Vous pouvez aussi contacter le Point d'Accès au Droit de Mantes-la-Jolie : 
+https://soliguide.fr/fiche/point-acces-au-droit-mantes-la-jolie-3629
+RESPONSE: Vous pouvez aussi contacter la permanence ADIL de Magnanville : 
+https://soliguide.fr/fiche/adil-magnanville-5961
+USER_ASK: MERCI
+USER_ASK: BIEN
+USER_ASK: BON JOURNEE
+USER_ASK: a vous tout mes respect
+RESPONSE: Je vous en prie. N'hésitez pas à revenir vers nous si vous avez d'autres questions :)
+
+Conversation168
+RESPONSE: Bonjour ! Avez-vous besoin d'aide dans votre recherche ?
+USER_ASK: oui
+RESPONSE: Bonjour ! Que recherchez vous ? 
+USER_ASK: je cherche un point d'aide en alimentaire chez soliguide sur bordeaux.merci
+    Le mardi 9 mars 2021, 13:20:23 UTC+1, Juliette - Soliguide <juliette@soliguide.on.crisp.email> a écrit :
+
+ Crisp EmailBonjour ! Avez-vous besoin d'aide dans votre recherche ?
+Bonjour ! Que recherchez vous ?
+RESPONSE: https://soliguide.fr/fiche/centre-de-distribution-des-restos-du-coeur-bordeaux-1859
+RESPONSE: Vous pouvez vous rendre au restos du coeur pour demander un colis alimentaire
+RESPONSE: Est-ce que cette information vous convient ?
+
+Conversation169
+USER_ASK: MdM peut intervenir sur les squats de Roms.
+USER_ASK: MdM n'offre ni de possibilité de douches, ni de duvets.
+
+MdM organise de plus une ACTION SANTE PRÉVENTION (entretien prévention avec possibilité de dépistage VIH-VHC par TRODS, deux à trois matinées par semaine, sans rdv, après avoir contacter le CASO
+et une ASSISTANCE RÉGULARISATION POUR SOINS, le mardi après-midi, tous les 15 jours, sur RDV.
+USER_ASK: Assistance : éducative : Cours de français pour les personnes sachant lire et écrire dans leur langue maternelle.
+
+Les cours ont lieu les mardis et jeudis matins de 10h à 12h (hors vacances scolaires) à Médecins du Monde (2, rue Charlevoix de Villers 33300 Bordeaux). Sur inscription, chaque année, en septembre.
+
+Pas de cours de français pendant la période estivale.
+USER_ASK: Assistance : sociale : Il est vivement conseillé de venir dès l’ouverture
+
+Accueil social et médical réalisé par des bénévoles, du lundi au vendredi matin à 9h, sans rdv, pour les personnes précaires n’ayant pas accès au droit commun : aide à la constitution du dossier d’Aide Médicale d’Etat ; aide à l’accès aux soins ; orientation vers le droit commun.
+USER_ASK: (En bref, ils ont arrêté les soins ophtalmos, dentisteries et l'accueil sage - femme)
+RESPONSE: Bonjour ! Est-ce que vous parlez de la structure du CASO ? :)
+USER_ASK: C'est ainsi que vous l'avez enregistré !
+USER_ASK: Ceci explique cela
+USER_ASK: oui.
+RESPONSE: La fiche est ici : https://soliguide.fr/fiche/caso-centre-accueil-de-soins-et-d-orientation-bordeaux-1910
+USER_ASK: donc, nécessairement, maintenant, j'ai trouvé !
+RESPONSE: Super ! Est-ce que ça correspond à vos informations ?
+USER_ASK: Ils ne font plus de dossier de 1-ère demande d'AME
+RESPONSE: D'accord merci beaucoup pour l'info, je modifie tout de suite !
+USER_ASK: mails il propose toujours une ASSISTANCE RÉGULARISATION POUR SOINS, le mardi après-midi, tous les 15 jours, sur RDV.
+USER_ASK: mais sinon, tout est ok
+RESPONSE: D'accord, je fais les modifs alors :)
+USER_ASK: (je me doutais bien que je cherchais pas au bon endroit)
+RESPONSE: Y'a pas de problème je suis là pour ça :)
+RESPONSE: On a différencié les structures car il y a aussi la CASE pour MDM
+USER_ASK: en fait on a dissocié la Case et l'accueil de la rue Charlevoix de Villers
+USER_ASK: (c'est Anaïs, bonjour Juliette !)
+RESPONSE: Ah bonjour Anaïs :)
+USER_ASK: je continue mes investigations, je croise les infos 115 et celles de Soliguide en appelant les structures, du coup, s'il y a des modifs, je t'envoie un message ici)
+USER_ASK: (investigations auprès des assos)
+RESPONSE: Merci !
+USER_ASK: Bonne journée !
+RESPONSE: Bonne journée :)
+USER_ASK: Re... Je ne trouve pas Stop Misère.
+USER_ASK: (9 rue Jean Dupas)
+USER_ASK: à quoi dois - je chercher, s'il te plaît ?
+RESPONSE: https://soliguide.fr/fiche/stop-misere-bordeaux-1972
+RESPONSE: Vous voyez une information qui n'est plus à jour ou incomplète ? Dites le nous, nous la modifions :)
+USER_ASK: :-)
+RESPONSE: Nous rencontrons quelques problème avec la recherche sur Soliguide, nous sommes en train de corriger ce bug :)
+USER_ASK: Le vendredi, ils ferment à 16H
+USER_ASK: Sinon, tout est ok
+RESPONSE: d'accord c'est modifié ! merci
+USER_ASK: Avec plaisir !
+
+Conversation170
+RESPONSE: Bonjour ! Avez-vous besoin d'aide dans votre recherche ?
+USER_ASK: Bonjour, connaissez-vous COLETTE CLUB ( https://www.colette.club/ ), la colocation intergénérationnelle ? Contact : Coline Guénel, 06 50 40 55 46. Ce serait bien de l'enregistrer sur Solidguide.fr ...
+RESPONSE: Bonjour
+RESPONSE: Merci pour cette information. JE me renseigne et prends contact avec eux !
+
+Conversation171
+RESPONSE: Bonjour ! Avez-vous besoin d'aide dans votre recherche ?
+USER_ASK: Bonjour,  Je recherche l'association Migrations Santé France
+RESPONSE: Bonjour
+RESPONSE: Ils font des permanences à différents endroits
+RESPONSE: Dans quelle ville recherchez vous ?
+
+Conversation172
+RESPONSE: Bonjour ! Avez-vous besoin d'aide dans votre recherche ?
+USER_ASK: Bonjour, savez-vous ou je peux trouver un endroit qui donne des tickets de transports et ticket restaurant gratuit pour des femmes en situation de rue s'il vous plat ?
+RESPONSE: Bonjour, où êtes vous situé ?
+USER_ASK: A la Courneuve
+RESPONSE: Bonjour, désolé pour le temps de réponse. Nous n'avons pas cette information car les structures ne veulent pas forcément la rendre publique mais vous pouvez vous renseigner auprès des services sociaux ou des accueils de jour (notamment pour des chèques services) du département où la personne est située. Elle est en Seine-Saint-Denis ?
+
+Conversation173
+RESPONSE: Vous voyez une information qui n'est plus à jour ou incomplète ? Dites le nous, nous la modifions :)
+RESPONSE: Bonjour ! Avez-vous besoin d'aide dans votre recherche ?
+USER_ASK: bonjour
+RESPONSE: Bonjour
+RESPONSE: Je peux vous renseigner ?
+USER_ASK: ca va
+RESPONSE: Très bien et vous ?
+USER_ASK: oui merci
+RESPONSE: :)
+
+Conversation174
+RESPONSE: https://soliguide.fr/fiche/cos-quancard-bordeaux-6451
+RESPONSE: https://soliguide.fr/fiche/diaconat-de-bordeaux-3852
+RESPONSE: https://soliguide.fr/fiche/permanence-acces-aux-soins-de-sante-pass-bordeaux-centre-d-albret-1934
+RESPONSE: https://soliguide.fr/fiche/delegation-territoriale-de-la-gironde-bordeaux-6433
+USER_ASK: auprès de qui se renseigner pour obtenir une aide aux obseques suite à un déces ?
+RESPONSE: Avez-vous trouvé ce que vous cherchiez ?
+USER_ASK: NON
+RESPONSE: Bonjour, que recherchez-vous ?
+USER_ASK: Bonjour ou puis je orienter une personne qui vit dans un logement insalubre ?
+RESPONSE: Bonjour, 
+Le logement est-il en location ?
+USER_ASK: OUI
+RESPONSE: Concernant une location, la personne doit contacter les services d'hygiène de la mairie
+RESPONSE: Si il est constaté que c'est remédiable, le propriétaire doit faire des travaux et indemniser le/la locataire
+RESPONSE: Si c'est irrémédiable, le propriétaire est obligé de verser à l'occupant une indemnité d'un montant égal à trois mois de son nouveau loyer destiné à couvrir ses frais de réinstallation.
+RESPONSE: La personne doit adresser un courrier à son propriétaire en amont puis faire constater l'insalubrité par le service d'hygiène
+RESPONSE: Est-ce que ma réponse vous convient ou avez-vous besoin d'une autre information ?
+USER_ASK: Je vous en remercie. votre réponse me convient.
+USER_ASK: Cordialement
+USER_ASK: acompagnement administatif pour étranger
+RESPONSE: Bonjour, pour l'accompagnement administratif, vous pouvez vous rapprocher de la Cimade : https://soliguide.fr/fiche/la-cimade-bordeaux-1920
+RESPONSE: Avez-vous besoin d'autres informations ?
+USER_ASK: oui, je vous remercie. Un partenaire nous demande s'il y a sur bordeaux une association qui ferait des démarches d'accompagnement physique pour des personnes étrangères ne maitrisant pas le français..
+RESPONSE: D'accord, pouvez-vous patienter ? Je demande à mon collègue en charge du développement sur Bordeaux
+RESPONSE: C'est à dire des personnes qui accompagnent directement les personnes étrangères pour toutes démarches ?
+USER_ASK: oui en effet
+RESPONSE: La Cimade fait ce travail justement d'accompagnement, c'est sur rendez-vous
+USER_ASK: C'est noté  je vous remercie
+RESPONSE: Je vous en prie
+RESPONSE: Bonne journée
+USER_ASK: bonjour où s'adresser pour signaler logement insalubre ?
+RESPONSE: Bonjour, vous pouvez vous adresser au service sanitaire de votre mairie pour une constatation par un expert.
+RESPONSE: Le logement est en location ?
+USER_ASK: OU ORIENTER UNE PERSONNE QUI SOUHAITE AVOIR UN FINANCEMENT POUR APPAREIL AUDITIF
+RESPONSE: Bonjour
+RESPONSE: Je n'ai pas cette information, mais je vais laisser notre équipe de Bordeaux revenir vers vous
+RESPONSE: Dans l'idée je pense qu'un CCAS ou un service social départemental pourrait vous aiguiller sur la question
+
+Conversation175
+RESPONSE: Vous voyez une information qui n'est plus à jour ou incomplète ? Dites le nous, nous la modifions :)
+RESPONSE: Bonjour ! Avez-vous besoin d'aide dans votre recherche ?
+USER_ASK: salut
+RESPONSE: Bonjout
+RESPONSE: Je peux vous renseigner ?
+
+Conversation176
+RESPONSE: Vous voyez une information qui n'est plus à jour ou incomplète ? Dites le nous, nous la modifions :)
+USER_ASK: Bonjour,
+RESPONSE: Bonjour
+
+Conversation177
+RESPONSE: Bonjour ! Avez-vous besoin d'aide dans votre recherche ?
+USER_ASK: OUI
+RESPONSE: Bonsoir !
+
+Malheureusement nous ne pouvons pas vous répondre pour le moment mais nous le ferons dès que possible. Vous pouvez laisser votre mail, écrire votre question, et nous reviendrons vers vous aussi vite que possible. En cas d'urgence, vous pouvez appeler le 115. 
+
+A bientôt :)
+RESPONSE: Bonjour, que puis-je faire pour vous ?
+
+Conversation178
+USER_ASK: Bonsoir, le Soliguide n'est pas accessible.
+RESPONSE: Bonsoir !
+
+Malheureusement nous ne pouvons pas vous répondre pour le moment mais nous le ferons dès que possible. Vous pouvez laisser votre mail, écrire votre question, et nous reviendrons vers vous aussi vite que possible. En cas d'urgence, vous pouvez appeler le 115. 
+
+A bientôt :)
+RESPONSE: Bonjour, est-ce que vous avez toujours ce problème ? Essayer de vous connecter en navigation privée
+
+Conversation179
+RESPONSE: Bonjour ! Avez-vous besoin d'aide dans votre recherche ?
+USER_ASK: Bonjour, je travaille au sein d'une association et je suis avec un usager qui c'est fait voler tout ses habits. Et j'aimerais savoir si il y a des associations ou autres qui proposent des habits chaud en ce temps d'hiver ( autour du 18ème ou alentours ) merci d'avance.
+RESPONSE: Bonjour
+RESPONSE: Je regarde cela de suite et je reviens très rapidement vers vous !
+USER_ASK: merci beaucoup
+RESPONSE: https://soliguide.fr/fiche/vestiboutique-et-baby-boutique-18eme-paris-2522
+RESPONSE: https://soliguide.fr/fiche/centre-activites-paris-18-44
+RESPONSE: Voici les structures dans le 18ème arrondissement
+RESPONSE: Voici pour le 9ème
+RESPONSE: https://soliguide.fr/fiche/vestiaires-hommes-paris-7259
+RESPONSE: https://soliguide.fr/fiche/vestiaires-hommes-paris-7259
+
+Conversation180
+RESPONSE: Hello ! Do you need help in your research ?
+USER_ASK: oui
+RESPONSE: Bonjour
+RESPONSE: Comment je peux vous aider ? Que recherchez vous ?
+USER_ASK: bonjour
+USER_ASK: rien . j ai entre juste pour decouvrir
+RESPONSE: D'accord n'hésitez pas si vous avez besoin :)
+USER_ASK: ok merci bcp +1
+
+Conversation181
+RESPONSE: Bonjour ! Avez-vous besoin d'aide dans votre recherche ?
+USER_ASK: Bonjour,
+RESPONSE: Bonjour
+USER_ASK: Je r
+USER_ASK: je recherche une aide alimentaire
+USER_ASK: sur Antony
+RESPONSE: D'accord, quelle type d'aide ? plutôt des colis avec des produits à préparer ? ou des repas chaud ?
+USER_ASK: les deux ?
+RESPONSE: D'accord un instant s'il vous plaît. Je vais faire une recherche
+USER_ASK: merci
+RESPONSE: Vous avez le secours populaire, mais ils sont ouverts que le mardi et mercredi : https://soliguide.fr/fiche/secours-populaire-francais-comite-de-antony-3075
+RESPONSE: Je continue mes recherches
+RESPONSE: Vous avez les restos du coeur du Plessis : https://soliguide.fr/fiche/3108
+USER_ASK: ok
+RESPONSE: Pour demain, vous avez le secours catholique de Sceaux : https://soliguide.fr/fiche/secours-catholique-sceaux-4026
+RESPONSE: etes vous suivi par un travailleur social ? Il y a des lieux comme les épiceries qui sont accessibles uniquement sur orientation d'un travailleur social
+USER_ASK: non
+RESPONSE: le secours catholique du Plessis peut vous apporter une aide alimentaire également : https://soliguide.fr/fiche/secours-catholique-le-plessis-robinson-2738
+RESPONSE: Souhaitez vous avoir les contacts d'une structure pour être accompagné ?
+
+Conversation182
+RESPONSE: Vous voyez une information qui n'est plus à jour ou incomplète ? Dites le nous, nous la modifions :)
+RESPONSE: Bonjour ! Avez-vous besoin d'aide dans votre recherche ?
+USER_ASK: nous ne faisons plus de laverie
+RESPONSE: Bonjour, merci pour l'information. Vous parlez bien du Secours Catholique de Champigny-sur-Marne
+ ?
+USER_ASK: oui exactement
+RESPONSE: Parfait, je mets cela à jour. Un grand merci !
+
+Conversation183
+RESPONSE: Bonjour ! Avez-vous besoin d'aide dans votre recherche ?
+USER_ASK: Bonjour pourrier vous m'indique une association qui apprend à parler le francais au alentour de meulan
+RESPONSE: Bonjour, je recherche cela de suite !
+RESPONSE: https://soliguide.fr/fiche/secours-catholique-meulan-meulan-en-yvelines-5865
+
+Conversation184
+RESPONSE: Avez-vous trouvé ce que vous cherchiez ?
+USER_ASK: Bonjour,.
+RESPONSE: Bonjour
+RESPONSE: Que puis-je faire pour vous ?
+USER_ASK: y a t'il des paniers de petits déjeuner aujourd'hui?
+RESPONSE: Pouvez-vous me dire où vous êtes situé ? Cela me permettra de vous indiquer des adresses proches de votre localisation
+USER_ASK: 29 rue du docteur babinski 75018
+RESPONSE: D'accord, un instant s'il vous plaît
+RESPONSE: https://soliguide.fr/fiche/petit-dej-de-armee-du-salut-rue-brechet-paris-10321
+RESPONSE: La distribution commence dans 5 minutes, vous pouvez y aller maintenant

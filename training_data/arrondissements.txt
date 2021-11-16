@@ -1,0 +1,20 @@
+premier,1er,1ère,1,75001
+deuxième,2eme,2ème,second,2nd,2,75002
+troisième,3eme,3ème,3,75003
+quatrième,4eme,4ème,4,75004
+cinquième,5eme,5ème,5,75005
+sixième,6eme,6ème,6,75006
+septième,7eme,7ème,7,75007
+huitième,8eme,8ème,8,75008
+neuvième,9eme,9ème,9,75009
+dixième,10eme,10ème,10,75010
+onzième,11eme,11ème,11,75011
+douzième,12eme,12ème,12,75012
+treizième,13eme,13ème,13,75013
+quatorzième,14eme,14ème,14,75014
+quinzième,15eme,15ème,15,75015
+seizième,16eme,16ème,16,75016
+dix-septième,dix septième,17eme,17ème,17,75017
+dix-huitième,dix huitième,18eme,18ème,18,75018
+dix-neuvième,dix neuvième,19eme,19ème,19,75019
+vingtième,20eme,20ème,20,75020
